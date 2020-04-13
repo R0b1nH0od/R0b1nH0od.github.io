@@ -21,11 +21,13 @@ published: true
 ![](/assets/images/Poorewhipranda9/Poorewhipranda9%20-%205.png)  
 ![](/assets/images/Poorewhipranda9/Poorewhipranda9%20-%206.png)  
 
-I got all his sms, call logs and contacts. I start contacting his girlfriend:  
+### I got all his sms, call logs and contacts. I start contacting his girlfriend:  
+
 ![](/assets/images/Poorewhipranda9/Poorewhipranda9_gf1.png)  
 ![](/assets/images/Poorewhipranda9/Poorewhipranda9_gf2.png)  
 
-Apparently she knows he's a scammer:  
+### Apparently she knows he's a scammer:  
+
 ![](/assets/images/Poorewhipranda9/Poorewhipranda9_gf3.png)  
 
 
