@@ -1,7 +1,7 @@
 title: R0b1nH0od-Blog
 description: "I love wasting time"
 
-baseurl: /
+baseurl: /R0b1nH0od.github.io
 
 source: .
 destination: ./_site
