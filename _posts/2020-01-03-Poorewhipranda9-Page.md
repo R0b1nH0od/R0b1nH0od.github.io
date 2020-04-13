@@ -8,6 +8,8 @@ published: true
 <dd>Poorewhipranda9</dd>
 <dt>Location</dt>
 <dd>Nigeria</dd>
+<dt>Fake Phone Number</dt>
+<dd>+1 (805) 864-1291</dd>  
 <dt>Twitter Status</dt>
 <dd>Suspended</dd>
 <dt>Hacking Method</dt>
