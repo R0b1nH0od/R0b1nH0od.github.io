@@ -14,7 +14,7 @@ published: true
 <dd>Apk with backdoor</dd>
 </dl>
 
-![](/assets/images/Poorewhipranda9/Poorewhipranda9%20-%201.png)
+ <img src="{{ site.baseurl }}/assets/images/Poorewhipranda9/Poorewhipranda9%20-%201.png">
 ![](/assets/images/Poorewhipranda9/Poorewhipranda9%20-%202.png)
 ![](/assets/images/Poorewhipranda9/Poorewhipranda9%20-%203.png)
 ![](/assets/images/Poorewhipranda9/Poorewhipranda9%20-%204.png)
