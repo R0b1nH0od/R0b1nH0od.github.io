@@ -9,7 +9,7 @@ published: true
 <dt>Location</dt>
 <dd>Nigeria</dd>
 <dt>Twitter Status</dt>
-<dd>[Suspended](https://shadowban.eu/Poorewhipranda9)</dd>
+<dd>Suspended</dd>
 <dt>Hacking Method</dt>
 <dd>Apk with backdoor</dd>
 </dl>
@@ -30,4 +30,6 @@ published: true
 
 ![](/assets/images/Poorewhipranda9/Poorewhipranda9_gf3.png)  
 
+### Reported and got suspended after few days:
 
+![](/assets/images/Poorewhipranda9/Poorewhipranda9_banned.png)  
