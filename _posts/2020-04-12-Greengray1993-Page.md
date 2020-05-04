@@ -1,0 +1,3804 @@
+---
+title: Greengray1993
+published: true
+---
+
+<dl>
+<dt>Twitter Name</dt>
+<dd>Greengray1993</dd>
+<dt>Location</dt>
+<dd>Nigeria</dd>
+<dt>Fake Phone Number</dt>
+<dd>+1 (562) 674-0655</dd>
+<dt>Twitter Status</dt>
+<dd>Suspended</dd>
+<dt>Hacking Method</dt>
+<dd>Apk with backdoor</dd>
+</dl>
+
+![](/assets/images/Greengray1993/Greengray1993_1.png)  
+![](/assets/images/Greengray1993/Greengray1993_2.png)  
+![](/assets/images/Greengray1993/Greengray1993_3.png)  
+![](/assets/images/Greengray1993/Greengray1993_4.png)  
+![](/assets/images/Greengray1993/Greengray1993_5.png)  
+![](/assets/images/Greengray1993/Greengray1993_6.png)  
+
+### I got his sms and call logs, reported and he has been suspended  
+
+![](/assets/images/Greengray1993/Greengray1993_Suspended.png)  
+
+### These are his sms conversations:
+```
+=====================
+[+] SMS messages dump
+=====================
+Date: 2020-04-12 15:19:08 +0100
+OS: Android 9 - Linux 4.9.117+ (aarch64)
+Remote IP: 197.210.71.82
+Remote Port: 53094
+#1
+Type	: Incoming
+Date	: 2020-04-12 13:40:45
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To ABEL OLUWADAMIL-STANBICIBTC 12-Apr-20 @ 1:40PM Amt: NGN10,500.00 Av.Bal: NGN 434,200.71
+#2
+Type	: Incoming
+Date	: 2020-04-12 12:11:35
+Status	: NOT_RECEIVED
+Message	: Dear Customer, your subscription to CallerFeel Monthly has been renewed successfully and N50.00 deducted from your account. This service will expire and auto renew on 2020-05-10. To cancel, text UNSUBSCRIBE REG to 50016. Dial *447# to manage your services. Thank you!
+#3
+Type	: Incoming
+Date	: 2020-04-12 12:00:06
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Transfer Of 11500.0 From HAMMOD BAB ATUNDE TIJANI To MOKANJUOLA OLUWATO Bilobaref: 002 00000100000120041211 59331 12-Apr-20 @ 12:00PM Amt: NGN11,500.00 Av.Bal: NGN 444,700.71
+#4
+Type	: Incoming
+Date	: 2020-04-12 11:49:47
+Status	: NOT_RECEIVED
+Message	: Your Paxful verification code is: 789131
+#5
+Type	: Incoming
+Date	: 2020-04-12 10:10:27
+Status	: NOT_RECEIVED
+Message	: Your data balance: Monthly: 382.85MB expires 02/05/2020 Bonus: 19MB expires 06/05/2020 19:02:39
+#6
+Type	: Incoming
+Date	: 2020-04-12 09:49:09
+Status	: NOT_RECEIVED
+Message	: Please call me back. I love you
+#7
+Type	: Incoming
+Date	: 2020-04-12 09:44:11
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 14-Apr-20 @ 10:11AM Amt: NGN200.00 Av.Bal: NGN 433,200.71
+#8
+Type	: Incoming
+Date	: 2020-04-12 09:43:23
+Status	: NOT_RECEIVED
+Message	: Account recharge of N200.00 was successful.Dial *121# and get Special data and recharge discounts today!
+#9
+Type	: Incoming
+Date	: 2020-04-12 09:43:21
+Status	: NOT_RECEIVED
+Message	: Ref: 2020041209431680905599045 Date: 2020-04-12 09:43 Amt: N200.00 From: MTN VTU TopUp
+#10
+Type	: Incoming
+Date	: 2020-04-11 21:23:48
+Status	: NOT_RECEIVED
+Message	: Your subscription for Callerfeel will expire on 2020-04-13 due to insufficient balance. Please recharge your account to continue subscription.
+#11
+Type	: Incoming
+Date	: 2020-04-11 19:37:41
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To AYODELE TAWAKAL-STANBICIBTC 14-Apr-20 @ 1:54AM Amt: NGN10,000.00 Av.Bal: NGN 433,427.59
+#12
+Type	: Incoming
+Date	: 2020-04-11 19:17:59
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 11-Apr-20 @ 7:18PM Amt: NGN200.00 Av.Bal: NGN 443,427.59
+#13
+Type	: Incoming
+Date	: 2020-04-11 18:23:43
+Status	: NOT_RECEIVED
+Message	: StayingSafe @ home just got easier with MTN MusicTime.Enjoy 20 HOURS FREE for 1 month with no subscription or data costs. To enjoy,click https://go.onelink.me/MbNm/d. T&Cs apply
+#14
+Type	: Incoming
+Date	: 2020-04-11 17:38:21
+Status	: NOT_RECEIVED
+Message	: Please call me back. I love you
+#15
+Type	: Incoming
+Date	: 2020-04-11 17:09:29
+Status	: NOT_RECEIVED
+Message	: Please call me back. I love you
+#16
+Type	: Incoming
+Date	: 2020-04-11 17:03:19
+Status	: NOT_RECEIVED
+Message	: Please call me back. I love you
+#17
+Type	: Incoming
+Date	: 2020-04-11 15:36:08
+Status	: NOT_RECEIVED
+Message	: StayingSafe @ home just got easier with MTN MusicTime.Enjoy 20 HOURS FREE for 1 month with no subscription or data costs. To enjoy,click https://go.onelink.me/MbNm/d. T&Cs apply
+#18
+Type	: Incoming
+Date	: 2020-04-11 14:49:58
+Status	: NOT_RECEIVED
+Message	: Please call me back. I love you
+#19
+Type	: Incoming
+Date	: 2020-04-11 14:36:08
+Status	: NOT_RECEIVED
+Message	: Please call me
+#20
+Type	: Incoming
+Date	: 2020-04-11 14:33:05
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To KEMIDELE NIGERI-FIRSTBANK 11-Apr-20 @ 2:33PM Amt: NGN2,000.00 Av.Bal: NGN 443,628.34
+#21
+Type	: Incoming
+Date	: 2020-04-11 08:48:57
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To JAMIU.AJ-Sterling Bank 14-Apr-20 @ 1:39PM Amt: NGN5,000.00 Av.Bal: NGN 445,638.34
+#22
+Type	: Incoming
+Date	: 2020-04-11 07:27:30
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 11-Apr-20 @ 7:27AM Amt: NGN200.00 Av.Bal: NGN 450,638.34
+#23
+Type	: Incoming
+Date	: 2020-04-11 07:27:29
+Status	: NOT_RECEIVED
+Message	: Your account recharge of N200.00 was Successful.You have received 20MB for all data activities,expires 2020-04-12.Bal: Dial *556#. Enjoy! Dial *121# and get Special data and recharge discounts today!
+#24
+Type	: Incoming
+Date	: 2020-04-11 07:27:24
+Status	: NOT_RECEIVED
+Message	: Ref: 2020041107271950204337170 Date: 2020-04-11 07:27 Amt: N200.00 From: http://goo.gl/u1C6G
+#25
+Type	: Incoming
+Date	: 2020-04-10 21:24:44
+Status	: NOT_RECEIVED
+Message	: Y'ello, please recharge your account within the next 3 day(s) to continue to use the service product CallerFeel Monthly. The product will expire at 2020-04-13.
+#26
+Type	: Incoming
+Date	: 2020-04-10 15:58:58
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 14-Apr-20 @ 7:44AM Amt: NGN9,000.00 Av.Bal: NGN 450,865.22
+#27
+Type	: Incoming
+Date	: 2020-04-10 14:50:14
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To KOLAWOLE TOSIN -FIRSTBANK 10-Apr-20 @ 2:50PM Amt: NGN4,500.00 Av.Bal: NGN 459,865.97
+#28
+Type	: Incoming
+Date	: 2020-04-10 13:28:36
+Status	: NOT_RECEIVED
+Message	: Every morning take a good look at yourself in the mirror and say am going to have a great day, yes you can do it and nobody would steal your joy.have a great day darling ❤️❤️❤️
+#29
+Type	: Incoming
+Date	: 2020-04-10 13:26:14
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From AZEEZ HAMMED A-FCMB 10-Apr-20 @ 1:26PM Amt: NGN24,000.00 Av.Bal: NGN 464,375.97
+#30
+Type	: Incoming
+Date	: 2020-04-10 13:01:45
+Status	: NOT_RECEIVED
+Message	: Many people love you, many people like hou you, but there z only one who died for that is Jesus Christ.hapi gud Friday
+#31
+Type	: Incoming
+Date	: 2020-04-09 21:58:43
+Status	: NOT_RECEIVED
+Message	: Your data balance: Monthly: 1988.63MB expires 02/05/2020 Bonus: 19MB expires 06/05/2020 19:02:39
+#32
+Type	: Incoming
+Date	: 2020-04-09 21:47:38
+Status	: NOT_RECEIVED
+Message	: Tomorrow
+#33
+Type	: Incoming
+Date	: 2020-04-09 21:47:31
+Status	: NOT_RECEIVED
+Message	: Bro someone help me to edit the Twitter in the afternoon but I did not understand what he told me maybe you will explain better to me
+#34
+Type	: Incoming
+Date	: 2020-04-09 21:38:19
+Status	: NOT_RECEIVED
+Message	: Did i offend you
+#35
+Type	: Incoming
+Date	: 2020-04-09 21:03:53
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 9-Apr-20 @ 9:03PM Amt: NGN200.00 Av.Bal: NGN 440,425.97
+#36
+Type	: Incoming
+Date	: 2020-04-09 21:03:41
+Status	: NOT_RECEIVED
+Message	: Ref: 2020040921033964304384819 Date: 2020-04-09 21:03 Amt: N200.00 From: http://goo.gl/u1C6G
+#37
+Type	: Incoming
+Date	: 2020-04-09 13:41:40
+Status	: NOT_RECEIVED
+Message	: Social distancing starts with you. Stop paper recharge and dial *822*Amount# to buy airtime from your Sterling account. Enquires, call 07008220000.
+#38
+Type	: Outgoing
+Date	: 2020-04-09 11:29:12
+Status	: NOT_RECEIVED
+Message	: Hi. I am currently driving. I'll get back to you soon.
+#39
+Type	: Incoming
+Date	: 2020-04-09 11:28:39
+Status	: NOT_RECEIVED
+Message	: And i have open the U S number
+#40
+Type	: Incoming
+Date	: 2020-04-09 11:28:19
+Status	: NOT_RECEIVED
+Message	: Bro tunji is here bro
+#41
+Type	: Incoming
+Date	: 2020-04-09 09:04:59
+Status	: NOT_RECEIVED
+Message	: Bro pls pick my call I was tell you something
+#42
+Type	: Incoming
+Date	: 2020-04-09 08:52:44
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 9-Apr-20 @ 8:52AM Amt: NGN500.00 Av.Bal: NGN 440,625.97
+#43
+Type	: Incoming
+Date	: 2020-04-09 06:43:27
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From AROGUMA EMMAN-GTB 9-Apr-20 @ 10:06AM Amt: NGN15,000.00 Av.Bal: NGN 441,125.97
+#44
+Type	: Incoming
+Date	: 2020-04-09 00:55:10
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From AROGUMA EMMAN-GTB 9-Apr-20 @ 1:16AM Amt: NGN61,000.00 Av.Bal: NGN 426,175.97
+#45
+Type	: Incoming
+Date	: 2020-04-09 00:09:27
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From AROGUMA EMMAN-GTB 9-Apr-20 @ 12:09AM Amt: NGN30,000.00 Av.Bal: NGN 365,225.97
+#46
+Type	: Incoming
+Date	: 2020-04-08 18:54:01
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 8-Apr-20 @ 6:54PM Amt: NGN4,500.00 Av.Bal: NGN 335,276.72
+#47
+Type	: Incoming
+Date	: 2020-04-08 11:50:47
+Status	: NOT_RECEIVED
+Message	: Bro tunji and bro segun is here so can come
+#48
+Type	: Incoming
+Date	: 2020-04-08 09:52:30
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 8-Apr-20 @ 9:52AM Amt: NGN200.00 Av.Bal: NGN 339,786.72
+#49
+Type	: Incoming
+Date	: 2020-04-08 00:55:07
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From OLADOSU ADEWO-GTB 8-Apr-20 @ 12:55AM Amt: NGN5,000.00 Av.Bal: NGN 339,986.72
+#50
+Type	: Incoming
+Date	: 2020-04-07 21:23:06
+Status	: NOT_RECEIVED
+Message	: Please call me
+#51
+Type	: Incoming
+Date	: 2020-04-07 21:21:19
+Status	: NOT_RECEIVED
+Message	: Please call me back. I love you
+#52
+Type	: Incoming
+Date	: 2020-04-07 20:13:49
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To AROGUMA EMMANUE-GTBANK 7-Apr-20 @ 8:14PM Amt: NGN22,000.00 Av.Bal: NGN 334,988.60
+#53
+Type	: Incoming
+Date	: 2020-04-07 19:52:44
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From OLUSEGUN.WO-Sterling Bank 7-Apr-20 @ 7:52PM Amt: NGN24,000.00 Av.Bal: NGN 357,013.60
+#54
+Type	: Incoming
+Date	: 2020-04-07 18:14:39
+Status	: NOT_RECEIVED
+Message	: Social distancing starts with you. Stop paper recharge and dial *822*Amount# to buy airtime from your Sterling account. Enquires, call 07008220000.
+#55
+Type	: Incoming
+Date	: 2020-04-07 17:43:04
+Status	: NOT_RECEIVED
+Message	: Bro where you dey I want to come and meet you
+#56
+Type	: Incoming
+Date	: 2020-04-07 15:10:59
+Status	: NOT_RECEIVED
+Message	: Exclusive just for you TODAY! Stand a chance to win FREE Rent for a year with your DiamondXtra account. Dial *901*5# now to start.
+#57
+Type	: Incoming
+Date	: 2020-04-07 14:57:31
+Status	: NOT_RECEIVED
+Message	: Bro are you at home
+#58
+Type	: Incoming
+Date	: 2020-04-07 13:41:51
+Status	: NOT_RECEIVED
+Message	: Exclusive just for you TODAY! Stand a chance to win FREE Rent for a year with your DiamondXtra account. Dial *901*5# now to start.
+#59
+Type	: Incoming
+Date	: 2020-04-07 10:23:40
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To WARIS B ADEBAYO-UBA 7-Apr-20 @ 2:24PM Amt: NGN47,500.00 Av.Bal: NGN 333,065.48
+#60
+Type	: Incoming
+Date	: 2020-04-07 08:56:55
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To AYODELE TAWAKAL-STANBICIBTC 7-Apr-20 @ 8:57AM Amt: NGN8,000.00 Av.Bal: NGN 380,617.36
+#61
+Type	: Incoming
+Date	: 2020-04-07 07:22:05
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From OLUSEGUN.WO-Sterling Bank 7-Apr-20 @ 5:33AM Amt: NGN50,000.00 Av.Bal: NGN 388,617.36
+#62
+Type	: Incoming
+Date	: 2020-04-07 01:28:43
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 7-Apr-20 @ 1:28AM Amt: NGN200.00 Av.Bal: NGN 338,667.36
+#63
+Type	: Incoming
+Date	: 2020-04-07 00:55:14
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From - 7-Apr-20 @ 12:55AM Amt: NGN15,000.00 Av.Bal: NGN 338,867.36
+#64
+Type	: Incoming
+Date	: 2020-04-06 21:40:18
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To WARIS B ADEBAYO-UBA 6-Apr-20 @ 9:40PM Amt: NGN22,000.00 Av.Bal: NGN 323,944.24
+#65
+Type	: Incoming
+Date	: 2020-04-06 21:36:35
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OLATUNDE SAHEED-UBA 6-Apr-20 @ 9:36PM Amt: NGN33,000.00 Av.Bal: NGN 345,971.12
+#66
+Type	: Incoming
+Date	: 2020-04-06 21:32:43
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From OLOSUNDE OLUSE-FBN 6-Apr-20 @ 9:32PM Amt: NGN35,000.00 Av.Bal: NGN 378,971.12
+#67
+Type	: Incoming
+Date	: 2020-04-06 20:48:25
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From OLUSEGUN.WO-Sterling Bank 6-Apr-20 @ 8:48PM Amt: NGN31,000.00 Av.Bal: NGN 344,021.12
+#68
+Type	: Incoming
+Date	: 2020-04-06 20:38:10
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 6-Apr-20 @ 8:38PM Amt: NGN200.00 Av.Bal: NGN 313,071.12
+#69
+Type	: Incoming
+Date	: 2020-04-06 19:10:01
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 6-Apr-20 @ 7:10PM Amt: NGN200.00 Av.Bal: NGN 323,298.00
+#70
+Type	: Incoming
+Date	: 2020-04-06 15:32:37
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To KOLAWOLE TOSIN -FIRSTBANK 6-Apr-20 @ 3:32PM Amt: NGN4,500.00 Av.Bal: NGN 323,508.75
+#71
+Type	: Incoming
+Date	: 2020-04-06 10:31:23
+Status	: NOT_RECEIVED
+Message	: Send airtime to your loved one via WhatsApp. Simply send 'Airtime' to 0906 000 6449 on WhatsApp and let Kiki help you put a smile on their face.
+#72
+Type	: Incoming
+Date	: 2020-04-06 09:54:22
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From AROGUMA EMMAN-GTB 6-Apr-20 @ 9:54AM Amt: NGN9,000.00 Av.Bal: NGN 336,535.63
+#73
+Type	: Incoming
+Date	: 2020-04-06 04:40:11
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Reversal VTU/ REF:BPD20200405230224 3481288150832434600/Sterling.BPM I 6-Apr-20 @ 4:40AM Amt: NGN300.00 Av.Bal: NGN 324,950.13
+#74
+Type	: Incoming
+Date	: 2020-04-06 04:26:24
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 6-Apr-20 @ 4:26AM Amt: NGN300.00 Av.Bal: NGN 324,650.13
+#75
+Type	: Incoming
+Date	: 2020-04-06 03:30:04
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 6-Apr-20 @ 3:30AM Amt: NGN300.00 Av.Bal: NGN 324,650.13
+#76
+Type	: Incoming
+Date	: 2020-04-06 03:18:05
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OLATUNDE SAHEED-UBA 6-Apr-20 @ 3:18AM Amt: NGN66,000.00 Av.Bal: NGN 331,600.13
+#77
+Type	: Incoming
+Date	: 2020-04-06 01:51:21
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OLATUNDE SAHEED-UBA 6-Apr-20 @ 1:51AM Amt: NGN4,000.00 Av.Bal: NGN 327,546.38
+#78
+Type	: Incoming
+Date	: 2020-04-06 00:44:19
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From OLUSEGUN.WO-Sterling Bank 6-Apr-20 @ 12:44AM Amt: NGN73,000.00 Av.Bal: NGN 397,600.13
+#79
+Type	: Incoming
+Date	: 2020-04-05 08:25:08
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 6-Apr-20 @ 3:05PM Amt: NGN200.00 Av.Bal: NGN 325,003.88
+#80
+Type	: Incoming
+Date	: 2020-04-05 00:56:13
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From - 5-Apr-20 @ 12:56AM Amt: NGN8,500.00 Av.Bal: NGN 325,203.88
+#81
+Type	: Incoming
+Date	: 2020-04-05 00:55:07
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To TOHEEB OYEBODE -STANBICIBTC 5-Apr-20 @ 12:55AM Amt: NGN28,000.00 Av.Bal: NGN 316,730.76
+#82
+Type	: Incoming
+Date	: 2020-04-05 00:39:04
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From - 5-Apr-20 @ 12:39AM Amt: NGN21,000.00 Av.Bal: NGN 344,730.76
+#83
+Type	: Incoming
+Date	: 2020-04-04 22:36:07
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From OLOSUNDE OLUSE-FBN 4-Apr-20 @ 10:28PM Amt: NGN12,000.00 Av.Bal: NGN 323,780.76
+#84
+Type	: Incoming
+Date	: 2020-04-04 15:39:50
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From OLUSEGUN.WO-Sterling Bank 4-Apr-20 @ 3:39PM Amt: NGN25,000.00 Av.Bal: NGN 311,830.76
+#85
+Type	: Incoming
+Date	: 2020-04-04 00:14:30
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To WARIS B ADEBAYO-UBA 4-Apr-20 @ 12:14AM Amt: NGN15,000.00 Av.Bal: NGN 286,882.64
+#86
+Type	: Incoming
+Date	: 2020-04-04 00:11:33
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From - 4-Apr-20 @ 12:11AM Amt: NGN30,000.00 Av.Bal: NGN 301,907.64
+#87
+Type	: Incoming
+Date	: 2020-04-04 00:08:42
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From OLOSUNDE OLUSE-FBN 4-Apr-20 @ 12:08AM Amt: NGN23,000.00 Av.Bal: NGN 271,957.64
+#88
+Type	: Incoming
+Date	: 2020-04-03 17:11:09
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From AZEEZ HAMMED A-FCMB 3-Apr-20 @ 5:11PM Amt: NGN28,000.00 Av.Bal: NGN 249,018.39
+#89
+Type	: Incoming
+Date	: 2020-04-03 15:29:48
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To BLESSING OLANIY-ACCESS 3-Apr-20 @ 3:29PM Amt: NGN500.00 Av.Bal: NGN 221,079.14
+#90
+Type	: Incoming
+Date	: 2020-04-03 15:24:38
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To RAIMI ADEWALE D-FIRSTBANK 3-Apr-20 @ 3:24PM Amt: NGN3,000.00 Av.Bal: NGN 221,589.89
+#91
+Type	: Incoming
+Date	: 2020-04-03 12:58:43
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 3-Apr-20 @ 12:58PM Amt: NGN200.00 Av.Bal: NGN 224,589.89
+#92
+Type	: Incoming
+Date	: 2020-04-03 11:17:58
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From - 3-Apr-20 @ 11:18AM Amt: NGN14,000.00 Av.Bal: NGN 224,789.89
+#93
+Type	: Incoming
+Date	: 2020-04-03 08:12:08
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To ABIODUN AYOFE A-WEMA 3-Apr-20 @ 8:12AM Amt: NGN60,000.00 Av.Bal: NGN 210,843.64
+#94
+Type	: Incoming
+Date	: 2020-04-03 08:03:55
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF To GBOLAGADE ABIOD-FIRSTBANK 3-Apr-20 @ 8:04AM Amt: NGN60,000.00 Av.Bal: NGN 270,839.89
+#95
+Type	: Incoming
+Date	: 2020-04-03 08:01:47
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To GBOLAGADE ABIOD-FIRSTBANK 3-Apr-20 @ 8:01AM Amt: NGN60,000.00 Av.Bal: NGN 210,893.64
+#96
+Type	: Incoming
+Date	: 2020-04-03 07:33:32
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF To GBOLAGADE ABIOD-FIRSTBANK 3-Apr-20 @ 7:33AM Amt: NGN60,000.00 Av.Bal: NGN 270,839.89
+#97
+Type	: Incoming
+Date	: 2020-04-03 07:31:55
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To GBOLAGADE ABIOD-FIRSTBANK 3-Apr-20 @ 7:32AM Amt: NGN60,000.00 Av.Bal: NGN 210,893.64
+#98
+Type	: Incoming
+Date	: 2020-04-03 01:30:15
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From SHARONTAT E NI-FBN 3-Apr-20 @ 1:30AM Amt: NGN33,000.00 Av.Bal: NGN 270,893.64
+#99
+Type	: Incoming
+Date	: 2020-04-02 23:45:43
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OLATUNDE SAHEED-UBA 2-Apr-20 @ 11:45PM Amt: NGN42,000.00 Av.Bal: NGN 237,943.64
+#100
+Type	: Incoming
+Date	: 2020-04-02 23:39:19
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From OLOSUNDE OLUSE-FBN 2-Apr-20 @ 11:39PM Amt: NGN43,000.00 Av.Bal: NGN 279,970.52
+#101
+Type	: Incoming
+Date	: 2020-04-02 14:18:28
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To KEMIDELE NIGERI-FIRSTBANK 2-Apr-20 @ 2:18PM Amt: NGN800.00 Av.Bal: NGN 237,021.27
+#102
+Type	: Incoming
+Date	: 2020-04-02 14:17:10
+Status	: NOT_RECEIVED
+Message	: Happy stay safe
+#103
+Type	: Incoming
+Date	: 2020-04-02 07:35:16
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OLATUNDE SAHEED-UBA 2-Apr-20 @ 7:35AM Amt: NGN22,000.00 Av.Bal: NGN 237,858.15
+#104
+Type	: Incoming
+Date	: 2020-04-02 07:22:17
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From OLOSUNDE OLUSE-FBN 2-Apr-20 @ 7:22AM Amt: NGN23,000.00 Av.Bal: NGN 259,858.15
+#105
+Type	: Incoming
+Date	: 2020-04-01 19:40:27
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From AZEEZ HAMMED A-FCMB 1-Apr-20 @ 7:40PM Amt: NGN25,000.00 Av.Bal: NGN 236,908.15
+#106
+Type	: Incoming
+Date	: 2020-04-01 19:33:26
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OLATUNDE SAHEED-UBA 1-Apr-20 @ 7:33PM Amt: NGN500.00 Av.Bal: NGN 211,958.90
+#107
+Type	: Incoming
+Date	: 2020-04-01 11:20:38
+Status	: NOT_RECEIVED
+Message	: Win Salary4Life this season. To qualify dial *901*5# to open a DiamondXtra account. Don?t have your BVN?, no worries, we got you covered.
+#108
+Type	: Incoming
+Date	: 2020-04-01 09:49:02
+Status	: NOT_RECEIVED
+Message	: May your tomorrow be brighter,may this new month be more successful,i wish this new month brings more inspiration and love in your life.happy new month darling
+#109
+Type	: Incoming
+Date	: 2020-03-31 15:49:59
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 31-Mar-20 @ 3:50PM Amt: NGN7,000.00 Av.Bal: NGN 212,495.78
+#110
+Type	: Incoming
+Date	: 2020-03-31 12:28:48
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 31-Mar-20 @ 12:28PM Amt: NGN7,000.00 Av.Bal: NGN 219,468.90
+#111
+Type	: Incoming
+Date	: 2020-03-31 12:26:09
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 31-Mar-20 @ 12:26PM Amt: NGN7,000.00 Av.Bal: NGN 212,495.78
+#112
+Type	: Incoming
+Date	: 2020-03-31 12:12:24
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 31-Mar-20 @ 12:12PM Amt: NGN200.00 Av.Bal: NGN 219,495.78
+#113
+Type	: Incoming
+Date	: 2020-03-31 11:59:26
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 31-Mar-20 @ 11:47PM Amt: NGN7,000.00 Av.Bal: NGN 219,693.90
+#114
+Type	: Incoming
+Date	: 2020-03-31 11:57:05
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 31-Mar-20 @ 10:26PM Amt: NGN7,000.00 Av.Bal: NGN 212,670.78
+#115
+Type	: Incoming
+Date	: 2020-03-30 20:55:03
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From OLUSEGUN.WO-Sterling Bank 30-Mar-20 @ 8:55PM Amt: NGN6,000.00 Av.Bal: NGN 219,695.78
+#116
+Type	: Incoming
+Date	: 2020-03-30 20:49:54
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To AGBAJE TAIWO AB-FIRSTBANK 30-Mar-20 @ 8:49PM Amt: NGN3,000.00 Av.Bal: NGN 213,706.53
+#117
+Type	: Incoming
+Date	: 2020-03-30 20:01:01
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To OLAWAL E.TO-Sterling Bank 30-Mar-20 @ 8:01PM Amt: NGN1,000.00 Av.Bal: NGN 216,706.53
+#118
+Type	: Incoming
+Date	: 2020-03-30 18:07:54
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To OLAWAL E.TO-Sterling Bank 30-Mar-20 @ 6:08PM Amt: NGN2,000.00 Av.Bal: NGN 217,706.53
+#119
+Type	: Incoming
+Date	: 2020-03-30 17:14:58
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 30-Mar-20 @ 5:15PM Amt: NGN3,500.00 Av.Bal: NGN 219,706.53
+#120
+Type	: Incoming
+Date	: 2020-03-30 09:41:37
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 30-Mar-20 @ 9:41AM Amt: NGN200.00 Av.Bal: NGN 223,206.53
+#121
+Type	: Incoming
+Date	: 2020-03-29 22:19:10
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 29-Mar-20 @ 10:18PM Amt: NGN200.00 Av.Bal: NGN 223,406.53
+#122
+Type	: Incoming
+Date	: 2020-03-29 21:25:13
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 29-Mar-20 @ 9:25PM Amt: NGN200.00 Av.Bal: NGN 223,606.53
+#123
+Type	: Incoming
+Date	: 2020-03-29 21:15:01
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 29-Mar-20 @ 9:15PM Amt: NGN1,000.00 Av.Bal: NGN 223,806.53
+#124
+Type	: Incoming
+Date	: 2020-03-29 13:48:57
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 29-Mar-20 @ 1:49PM Amt: NGN200.00 Av.Bal: NGN 224,806.53
+#125
+Type	: Incoming
+Date	: 2020-03-29 11:39:10
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From - 29-Mar-20 @ 11:39AM Amt: NGN5,000.00 Av.Bal: NGN 225,006.53
+#126
+Type	: Incoming
+Date	: 2020-03-29 07:21:30
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OLATUNDE SAHEED-UBA 29-Mar-20 @ 7:21AM Amt: NGN10,000.00 Av.Bal: NGN 220,033.41
+#127
+Type	: Incoming
+Date	: 2020-03-28 23:09:22
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From OLOSUNDE OLUSE-FBN 29-Mar-20 @ 12:09AM Amt: NGN16,000.00 Av.Bal: NGN 230,033.41
+#128
+Type	: Incoming
+Date	: 2020-03-28 23:04:21
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To TOHEEB OYEBODE -STANBICIBTC 29-Mar-20 @ 12:04AM Amt: NGN5,000.00 Av.Bal: NGN 214,094.16
+#129
+Type	: Incoming
+Date	: 2020-03-28 19:48:01
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From IBUKUN.OO-Sterling Bank 28-Mar-20 @ 8:48PM Amt: NGN5,261.00 Av.Bal: NGN 219,094.16
+#130
+Type	: Incoming
+Date	: 2020-03-28 19:47:52
+Status	: NOT_RECEIVED
+Message	: Please call me back. I love you
+#131
+Type	: Incoming
+Date	: 2020-03-28 12:11:37
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 28-Mar-20 @ 1:11PM Amt: NGN15,000.00 Av.Bal: NGN 213,860.04
+#132
+Type	: Incoming
+Date	: 2020-03-28 12:05:12
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 28-Mar-20 @ 1:05PM Amt: NGN200.00 Av.Bal: NGN 228,860.04
+#133
+Type	: Incoming
+Date	: 2020-03-27 20:47:30
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To AKINDELE ROQEEB-GTBANK 30-Mar-20 @ 8:59PM Amt: NGN5,000.00 Av.Bal: NGN 229,070.79
+#134
+Type	: Incoming
+Date	: 2020-03-27 20:21:48
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 30-Mar-20 @ 5:10AM Amt: NGN200.00 Av.Bal: NGN 229,060.29
+#135
+Type	: Incoming
+Date	: 2020-03-27 19:49:10
+Status	: NOT_RECEIVED
+Message	: Please call me back. I love you
+#136
+Type	: Incoming
+Date	: 2020-03-26 23:03:26
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From SHARONTAT E NI-FBN 27-Mar-20 @ 12:03AM Amt: NGN28,000.00 Av.Bal: NGN 234,270.79
+#137
+Type	: Incoming
+Date	: 2020-03-26 21:20:36
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 26-Mar-20 @ 10:20PM Amt: NGN200.00 Av.Bal: NGN 206,320.79
+#138
+Type	: Incoming
+Date	: 2020-03-26 19:00:05
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To TAOFEEK LAWAL-STANBICIBTC 26-Mar-20 @ 7:59PM Amt: NGN13,000.00 Av.Bal: NGN 206,547.67
+#139
+Type	: Incoming
+Date	: 2020-03-25 20:19:25
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 25-Mar-20 @ 9:19PM Amt: NGN200.00 Av.Bal: NGN 219,547.67
+#140
+Type	: Incoming
+Date	: 2020-03-25 20:18:05
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 25-Mar-20 @ 9:18PM Amt: NGN200.00 Av.Bal: NGN 219,547.67
+#141
+Type	: Incoming
+Date	: 2020-03-25 08:32:54
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From SHARONTAT E NI-FBN 25-Mar-20 @ 9:32AM Amt: NGN28,000.00 Av.Bal: NGN 219,947.67
+#142
+Type	: Incoming
+Date	: 2020-03-24 19:38:17
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 24-Mar-20 @ 8:38PM Amt: NGN6,000.00 Av.Bal: NGN 192,024.55
+#143
+Type	: Incoming
+Date	: 2020-03-24 15:25:28
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To JAMIU.AJ-Sterling Bank 24-Mar-20 @ 4:25PM Amt: NGN2,000.00 Av.Bal: NGN 198,024.55
+#144
+Type	: Incoming
+Date	: 2020-03-22 17:50:31
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 22-Mar-20 @ 6:50PM Amt: NGN3,000.00 Av.Bal: NGN 200,035.30
+#145
+Type	: Incoming
+Date	: 2020-03-22 11:45:08
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 22-Mar-20 @ 12:45PM Amt: NGN750.00 Av.Bal: NGN 203,035.30
+#146
+Type	: Incoming
+Date	: 2020-03-22 11:42:10
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To JAMIU.AJ-Sterling Bank 22-Mar-20 @ 12:42PM Amt: NGN4,000.00 Av.Bal: NGN 203,785.30
+#147
+Type	: Incoming
+Date	: 2020-03-22 11:09:16
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To SOLOMON.AA-Sterling Bank 22-Mar-20 @ 12:09PM Amt: NGN5,000.00 Av.Bal: NGN 207,785.30
+#148
+Type	: Incoming
+Date	: 2020-03-22 11:06:41
+Status	: NOT_RECEIVED
+Message	: Baba I still Dey wait for your update 😲
+#149
+Type	: Incoming
+Date	: 2020-03-22 10:24:21
+Status	: NOT_RECEIVED
+Message	: 0041734693 Alade Solomon ayo Sterling bank
+#150
+Type	: Incoming
+Date	: 2020-03-22 06:08:11
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: SMS NOTIFICATION CHARGE FOR 2020 FE BRUARY 15TH -14TH MARCH - NGN 22-Mar-20 @ 7:08AM Amt: NGN235.00 Av.Bal: NGN 212,785.30
+#151
+Type	: Incoming
+Date	: 2020-03-21 20:02:09
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 21-Mar-20 @ 9:02PM Amt: NGN500.00 Av.Bal: NGN 213,070.30
+#152
+Type	: Incoming
+Date	: 2020-03-21 12:34:53
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 21-Mar-20 @ 1:35PM Amt: NGN200.00 Av.Bal: NGN 213,570.30
+#153
+Type	: Incoming
+Date	: 2020-03-21 12:28:56
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 23-Mar-20 @ 5:52PM Amt: NGN1,500.00 Av.Bal: NGN 213,570.30
+#154
+Type	: Incoming
+Date	: 2020-03-21 09:32:18
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From Paystack - 21-Mar-20 @ 10:32AM Amt: NGN10,000.00 Av.Bal: NGN 215,370.30
+#155
+Type	: Incoming
+Date	: 2020-03-21 08:41:39
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To SOLOMON.AA-Sterling Bank 21-Mar-20 @ 9:42AM Amt: NGN5,000.00 Av.Bal: NGN 205,420.30
+#156
+Type	: Incoming
+Date	: 2020-03-21 08:30:09
+Status	: NOT_RECEIVED
+Message	: 0041734693 Alade Solomon ayo Sterling bank
+#157
+Type	: Incoming
+Date	: 2020-03-20 20:22:51
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 20-Mar-20 @ 9:23PM Amt: NGN6,000.00 Av.Bal: NGN 210,447.18
+#158
+Type	: Incoming
+Date	: 2020-03-20 10:39:48
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 20-Mar-20 @ 11:39AM Amt: NGN200.00 Av.Bal: NGN 216,447.18
+#159
+Type	: Incoming
+Date	: 2020-03-20 08:15:12
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From AZEEZ HAMMED A-FCMB 20-Mar-20 @ 9:15AM Amt: NGN33,000.00 Av.Bal: NGN 216,647.18
+#160
+Type	: Incoming
+Date	: 2020-03-20 08:15:00
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To OLAWAL E.TO-Sterling Bank 20-Mar-20 @ 9:15AM Amt: NGN10,000.00 Av.Bal: NGN 216,647.18
+#161
+Type	: Incoming
+Date	: 2020-03-20 05:50:44
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From SHARONTAT E NI-FBN 20-Mar-20 @ 6:50AM Amt: NGN42,000.00 Av.Bal: NGN 193,697.18
+#162
+Type	: Incoming
+Date	: 2020-03-20 04:24:24
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From - 20-Mar-20 @ 5:24AM Amt: NGN30,000.00 Av.Bal: NGN 151,747.18
+#163
+Type	: Incoming
+Date	: 2020-03-19 20:39:02
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From Paystack - 20-Mar-20 @ 3:47AM Amt: NGN1,500.00 Av.Bal: NGN 121,797.18
+#164
+Type	: Incoming
+Date	: 2020-03-19 06:19:42
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To OLAWAL E.TO-Sterling Bank 19-Mar-20 @ 7:19AM Amt: NGN3,000.00 Av.Bal: NGN 128,524.06
+#165
+Type	: Incoming
+Date	: 2020-03-18 21:50:39
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 18-Mar-20 @ 10:50PM Amt: NGN500.00 Av.Bal: NGN 131,524.06
+#166
+Type	: Incoming
+Date	: 2020-03-18 11:50:36
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From SHARONTAT E NI-FBN 18-Mar-20 @ 10:42PM Amt: NGN18,500.00 Av.Bal: NGN 132,024.06
+#167
+Type	: Incoming
+Date	: 2020-03-18 04:46:17
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From - 18-Mar-20 @ 5:46AM Amt: NGN7,000.00 Av.Bal: NGN 113,574.06
+#168
+Type	: Incoming
+Date	: 2020-03-17 21:20:33
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 18-Mar-20 @ 12:14AM Amt: NGN200.00 Av.Bal: NGN 106,574.06
+#169
+Type	: Incoming
+Date	: 2020-03-17 19:14:11
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To JAMIU.AJ-Sterling Bank 17-Mar-20 @ 8:14PM Amt: NGN3,000.00 Av.Bal: NGN 106,774.06
+#170
+Type	: Incoming
+Date	: 2020-03-16 21:35:12
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 16-Mar-20 @ 10:35PM Amt: NGN500.00 Av.Bal: NGN 109,774.06
+#171
+Type	: Incoming
+Date	: 2020-03-16 14:39:57
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 16-Mar-20 @ 3:40PM Amt: NGN9,000.00 Av.Bal: NGN 110,300.94
+#172
+Type	: Incoming
+Date	: 2020-03-16 10:20:36
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 16-Mar-20 @ 7:34PM Amt: NGN200.00 Av.Bal: NGN 119,300.94
+#173
+Type	: Incoming
+Date	: 2020-03-16 06:40:00
+Status	: NOT_RECEIVED
+Message	: Please call me back. I love you
+#174
+Type	: Incoming
+Date	: 2020-03-15 21:32:08
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 15-Mar-20 @ 10:32PM Amt: NGN114.00 Av.Bal: NGN 119,500.94
+#175
+Type	: Incoming
+Date	: 2020-03-15 17:20:00
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To ABDULWAHAB TOHE-UBA 15-Mar-20 @ 6:20PM Amt: NGN500.00 Av.Bal: NGN 119,625.69
+#176
+Type	: Incoming
+Date	: 2020-03-15 16:26:54
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 15-Mar-20 @ 5:27PM Amt: NGN5,000.00 Av.Bal: NGN 120,136.44
+#177
+Type	: Incoming
+Date	: 2020-03-15 15:40:43
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: FEB 2020 STAMP DUTY CHARGE 15-Mar-20 @ 4:40PM Amt: NGN200.00 Av.Bal: NGN 125,136.44
+#178
+Type	: Incoming
+Date	: 2020-03-14 20:20:52
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 14-Mar-20 @ 9:21PM Amt: NGN200.00 Av.Bal: NGN 125,336.44
+#179
+Type	: Incoming
+Date	: 2020-03-14 07:53:06
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 14-Mar-20 @ 8:53AM Amt: NGN200.00 Av.Bal: NGN 125,536.44
+#180
+Type	: Incoming
+Date	: 2020-03-14 07:14:37
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OYEBAMIJI KAZEE-FIRSTBANK 14-Mar-20 @ 8:14AM Amt: NGN10,000.00 Av.Bal: NGN 125,763.32
+#181
+Type	: Incoming
+Date	: 2020-03-13 21:34:01
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To KOLAWOLE TOSIN -FIRSTBANK 13-Mar-20 @ 10:34PM Amt: NGN4,200.00 Av.Bal: NGN 135,774.07
+#182
+Type	: Incoming
+Date	: 2020-03-13 21:18:45
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OYEBAMIJI KAZEE-FIRSTBANK 13-Mar-20 @ 10:18PM Amt: NGN6,000.00 Av.Bal: NGN 140,000.95
+#183
+Type	: Incoming
+Date	: 2020-03-13 21:01:00
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 13-Mar-20 @ 10:01PM Amt: NGN150.00 Av.Bal: NGN 146,000.95
+#184
+Type	: Incoming
+Date	: 2020-03-13 18:14:31
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From ENIO LA.DL-Sterling Bank 13-Mar-20 @ 7:14PM Amt: NGN23,000.00 Av.Bal: NGN 146,150.95
+#185
+Type	: Incoming
+Date	: 2020-03-13 11:58:01
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 13-Mar-20 @ 12:58PM Amt: NGN10,000.00 Av.Bal: NGN 123,227.83
+#186
+Type	: Incoming
+Date	: 2020-03-13 07:41:11
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From - 13-Mar-20 @ 8:41AM Amt: NGN47,000.00 Av.Bal: NGN 133,227.83
+#187
+Type	: Incoming
+Date	: 2020-03-12 19:52:35
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 12-Mar-20 @ 8:52PM Amt: NGN200.00 Av.Bal: NGN 86,277.83
+#188
+Type	: Incoming
+Date	: 2020-03-12 13:24:11
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 12-Mar-20 @ 2:24PM Amt: NGN4,500.00 Av.Bal: NGN 86,488.58
+#189
+Type	: Incoming
+Date	: 2020-03-12 11:12:12
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From - 12-Mar-20 @ 3:34PM Amt: NGN11,000.00 Av.Bal: NGN 90,988.58
+#190
+Type	: Incoming
+Date	: 2020-03-11 22:11:05
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 11-Mar-20 @ 10:33PM Amt: NGN150.00 Av.Bal: NGN 80,038.58
+#191
+Type	: Incoming
+Date	: 2020-03-11 19:41:37
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 11-Mar-20 @ 8:41PM Amt: NGN2,000.00 Av.Bal: NGN 80,199.33
+#192
+Type	: Incoming
+Date	: 2020-03-11 19:18:50
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 11-Mar-20 @ 8:18PM Amt: NGN2,000.00 Av.Bal: NGN 82,188.58
+#193
+Type	: Incoming
+Date	: 2020-03-11 19:14:33
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 11-Mar-20 @ 8:14PM Amt: NGN2,000.00 Av.Bal: NGN 80,199.33
+#194
+Type	: Incoming
+Date	: 2020-03-11 13:37:51
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 11-Mar-20 @ 2:37PM Amt: NGN1,500.00 Av.Bal: NGN 82,199.33
+#195
+Type	: Incoming
+Date	: 2020-03-10 21:03:04
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To OLAWAL E.TO-Sterling Bank 10-Mar-20 @ 10:03PM Amt: NGN10,000.00 Av.Bal: NGN 83,699.33
+#196
+Type	: Incoming
+Date	: 2020-03-10 09:01:15
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 10-Mar-20 @ 10:01AM Amt: NGN10,000.00 Av.Bal: NGN 93,726.21
+#197
+Type	: Incoming
+Date	: 2020-03-10 08:58:47
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 10-Mar-20 @ 7:28AM Amt: NGN10,000.00 Av.Bal: NGN 103,699.33
+#198
+Type	: Incoming
+Date	: 2020-03-10 08:55:34
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 10-Mar-20 @ 5:12AM Amt: NGN10,000.00 Av.Bal: NGN 93,726.21
+#199
+Type	: Incoming
+Date	: 2020-03-10 06:48:49
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From AZEEZ HAMMED A-FCMB 10-Mar-20 @ 7:48AM Amt: NGN42,000.00 Av.Bal: NGN 103,726.21
+#200
+Type	: Incoming
+Date	: 2020-03-10 05:42:00
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From AKANDE OM OWUM-FBN 10-Mar-20 @ 6:42AM Amt: NGN2,000.00 Av.Bal: NGN 61,776.21
+#201
+Type	: Incoming
+Date	: 2020-03-09 22:34:07
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 9-Mar-20 @ 11:34PM Amt: NGN300.00 Av.Bal: NGN 59,776.21
+#202
+Type	: Incoming
+Date	: 2020-03-09 22:32:47
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 9-Mar-20 @ 11:33PM Amt: NGN200.00 Av.Bal: NGN 60,076.21
+#203
+Type	: Incoming
+Date	: 2020-03-09 21:38:28
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 9-Mar-20 @ 10:38PM Amt: NGN200.00 Av.Bal: NGN 60,376.21
+#204
+Type	: Incoming
+Date	: 2020-03-09 18:23:56
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 9-Mar-20 @ 7:24PM Amt: NGN10,000.00 Av.Bal: NGN 60,603.09
+#205
+Type	: Incoming
+Date	: 2020-03-09 10:05:25
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 9-Mar-20 @ 11:05AM Amt: NGN8,000.00 Av.Bal: NGN 70,629.97
+#206
+Type	: Incoming
+Date	: 2020-03-09 09:44:47
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From - 9-Mar-20 @ 10:44AM Amt: NGN78,000.00 Av.Bal: NGN 78,629.97
+#207
+Type	: Incoming
+Date	: 2020-03-08 12:05:28
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 8-Mar-20 @ 1:05PM Amt: NGN200.00 Av.Bal: NGN 601.97
+#208
+Type	: Incoming
+Date	: 2020-03-08 12:04:02
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 8-Mar-20 @ 1:04PM Amt: NGN4,000.00 Av.Bal: NGN 812.72
+#209
+Type	: Incoming
+Date	: 2020-03-08 11:06:09
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 8-Mar-20 @ 12:06PM Amt: NGN200.00 Av.Bal: NGN 4,812.72
+#210
+Type	: Incoming
+Date	: 2020-03-07 23:40:52
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 8-Mar-20 @ 12:41AM Amt: NGN12,000.00 Av.Bal: NGN 5,012.72
+#211
+Type	: Incoming
+Date	: 2020-03-07 16:23:06
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 7-Mar-20 @ 5:22PM Amt: NGN200.00 Av.Bal: NGN 5,287.60
+#212
+Type	: Incoming
+Date	: 2020-03-07 06:53:54
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 7-Mar-20 @ 7:54AM Amt: NGN500.00 Av.Bal: NGN 7,498.35
+#213
+Type	: Incoming
+Date	: 2020-03-06 20:55:18
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To OLAWAL E.TO-Sterling Bank 6-Mar-20 @ 9:55PM Amt: NGN2,000.00 Av.Bal: NGN 7,998.35
+#214
+Type	: Incoming
+Date	: 2020-03-05 09:57:29
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 5-Mar-20 @ 10:57PM Amt: NGN130.00 Av.Bal: NGN 15,009.10
+#215
+Type	: Incoming
+Date	: 2020-03-05 09:47:23
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 5-Mar-20 @ 4:50PM Amt: NGN4,000.00 Av.Bal: NGN 15,139.10
+#216
+Type	: Incoming
+Date	: 2020-03-04 18:35:48
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 4-Mar-20 @ 7:35PM Amt: NGN11,000.00 Av.Bal: NGN 19,176.73
+#217
+Type	: Incoming
+Date	: 2020-03-04 18:03:20
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From IBUKUN.OO-Sterling Bank 4-Mar-20 @ 7:03PM Amt: NGN11,000.00 Av.Bal: NGN 41,176.73
+#218
+Type	: Incoming
+Date	: 2020-03-04 18:01:42
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From IBUKUN.OO-Sterling Bank 4-Mar-20 @ 7:01PM Amt: NGN11,000.00 Av.Bal: NGN 30,176.73
+#219
+Type	: Incoming
+Date	: 2020-03-04 16:17:06
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From AZEEZ HAMMED A-FCMB 4-Mar-20 @ 5:17PM Amt: NGN14,000.00 Av.Bal: NGN 19,176.73
+#220
+Type	: Incoming
+Date	: 2020-03-04 14:18:00
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 4-Mar-20 @ 11:11AM Amt: NGN9,500.00 Av.Bal: NGN 5,203.61
+#221
+Type	: Incoming
+Date	: 2020-03-04 12:35:43
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From ENIO LA.DL-Sterling Bank 4-Mar-20 @ 1:35PM Amt: NGN4,600.00 Av.Bal: NGN 14,703.61
+#222
+Type	: Incoming
+Date	: 2020-03-04 06:49:30
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From - 4-Mar-20 @ 7:49AM Amt: NGN6,000.00 Av.Bal: NGN 10,103.61
+#223
+Type	: Incoming
+Date	: 2020-03-03 21:44:19
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 4-Mar-20 @ 6:59PM Amt: NGN200.00 Av.Bal: NGN 4,103.61
+#224
+Type	: Incoming
+Date	: 2020-03-03 21:01:12
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 3-Mar-20 @ 10:01PM Amt: NGN200.00 Av.Bal: NGN 4,303.61
+#225
+Type	: Incoming
+Date	: 2020-03-03 17:16:24
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To ASANIKE SULAIMO-FIRSTBANK 3-Mar-20 @ 6:16PM Amt: NGN3,000.00 Av.Bal: NGN 4,514.36
+#226
+Type	: Incoming
+Date	: 2020-03-02 15:17:59
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From - 2-Mar-20 @ 4:18PM Amt: NGN7,000.00 Av.Bal: NGN 7,514.36
+#227
+Type	: Incoming
+Date	: 2020-03-01 14:44:54
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To ASANIKE SULAIMO-FIRSTBANK 1-Mar-20 @ 3:45PM Amt: NGN6,000.00 Av.Bal: NGN 541.24
+#228
+Type	: Incoming
+Date	: 2020-03-01 14:43:18
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To ISMAIL ABDURRAH-FIRSTBANK 1-Mar-20 @ 3:43PM Amt: NGN4,500.00 Av.Bal: NGN 6,551.99
+#229
+Type	: Incoming
+Date	: 2020-03-01 11:14:50
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: ROE BANK VTUREFBPD20200227132333779 3895752 89812600Onepaymokanjuola.OB Ill P Ayment Ref 110510906200227132 3379 1-Mar-20 @ 12:14PM Amt: NGN200.00 Av.Bal: NGN 11,051.99
+#230
+Type	: Incoming
+Date	: 2020-02-29 20:22:46
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF To ASANIKE SULAIMO-FIRSTBANK 29-Feb-20 @ 9:22PM Amt: NGN6,000.00 Av.Bal: NGN 10,825.11
+#231
+Type	: Incoming
+Date	: 2020-02-29 20:13:18
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To ASANIKE SULAIMO-FIRSTBANK 29-Feb-20 @ 9:13PM Amt: NGN6,000.00 Av.Bal: NGN 4,862.74
+#232
+Type	: Incoming
+Date	: 2020-02-29 13:55:47
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF To ABDURRAHMAN ABD-STANBICIBTC 29-Feb-20 @ 2:55PM Amt: NGN4,500.00 Av.Bal: NGN 10,851.99
+#233
+Type	: Incoming
+Date	: 2020-02-29 13:23:15
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To ABDURRAHMAN ABD-STANBICIBTC 29-Feb-20 @ 2:23PM Amt: NGN4,500.00 Av.Bal: NGN 6,352.74
+#234
+Type	: Incoming
+Date	: 2020-02-28 11:06:49
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To ASANIKE SULAIMO-FIRSTBANK 28-Feb-20 @ 12:07PM Amt: NGN6,000.00 Av.Bal: NGN 10,889.62
+#235
+Type	: Incoming
+Date	: 2020-02-28 10:18:54
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 28-Feb-20 @ 11:19AM Amt: NGN6,000.00 Av.Bal: NGN 16,862.74
+#236
+Type	: Incoming
+Date	: 2020-02-28 10:13:58
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 28-Feb-20 @ 11:14AM Amt: NGN6,000.00 Av.Bal: NGN 10,889.62
+#237
+Type	: Incoming
+Date	: 2020-02-28 02:59:25
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP From 10000420022802564810007035 7901 Paycom PAYREF:1000042002280256 48100070357901 SENDER: Sulaimon Gba Debo Asanike REMARK: Phonemaste 28-Feb-20 @ 3:59AM Amt: NGN15,000.00 Av.Bal: NGN 16,889.62
+#238
+Type	: Incoming
+Date	: 2020-02-27 14:12:35
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OYEBAMIJI KAZEE-FIRSTBANK 27-Feb-20 @ 3:12PM Amt: NGN2,200.00 Av.Bal: NGN 18,427.25
+#239
+Type	: Incoming
+Date	: 2020-02-27 12:25:45
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 27-Feb-20 @ 1:25PM Amt: NGN200.00 Av.Bal: NGN 20,627.25
+#240
+Type	: Incoming
+Date	: 2020-02-27 12:23:48
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 27-Feb-20 @ 1:23PM Amt: NGN200.00 Av.Bal: NGN 20,827.25
+#241
+Type	: Incoming
+Date	: 2020-02-27 10:14:08
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To MUIDEEN.AA-Sterling Bank 27-Feb-20 @ 11:14AM Amt: NGN2,000.00 Av.Bal: NGN 21,027.25
+#242
+Type	: Incoming
+Date	: 2020-02-27 09:22:57
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To ASANIKE SULAIMO-FIRSTBANK 27-Feb-20 @ 10:23AM Amt: NGN2,000.00 Av.Bal: NGN 23,028.00
+#243
+Type	: Incoming
+Date	: 2020-02-26 19:29:03
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To IBRAHIM.AR-Sterling Bank 26-Feb-20 @ 8:29PM Amt: NGN15,000.00 Av.Bal: NGN 25,038.00
+#244
+Type	: Incoming
+Date	: 2020-02-25 17:02:40
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To ASANIKE SULAIMO-FIRSTBANK 25-Feb-20 @ 6:02PM Amt: NGN4,000.00 Av.Bal: NGN 40,038.75
+#245
+Type	: Incoming
+Date	: 2020-02-25 08:55:59
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From - 25-Feb-20 @ 7:25AM Amt: NGN14,000.00 Av.Bal: NGN 44,048.75
+#246
+Type	: Outgoing
+Date	: 2020-02-25 07:32:46
+Status	: NOT_RECEIVED
+Message	: Can't talk now. What's up?
+#247
+Type	: Incoming
+Date	: 2020-02-25 07:29:03
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 25-Feb-20 @ 8:29AM Amt: NGN200.00 Av.Bal: NGN 30,048.75
+#248
+Type	: Incoming
+Date	: 2020-02-24 12:38:58
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - TEAMAPT LIMITED LA LANG 24-Feb-20 @ 1:38PM Amt: NGN3,100.00 Av.Bal: NGN 30,248.75
+#249
+Type	: Incoming
+Date	: 2020-02-24 07:59:56
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From - 24-Feb-20 @ 9:00AM Amt: NGN1,000.00 Av.Bal: NGN 33,348.75
+#250
+Type	: Incoming
+Date	: 2020-02-24 07:58:51
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From - 24-Feb-20 @ 11:31AM Amt: NGN4,000.00 Av.Bal: NGN 32,348.75
+#251
+Type	: Incoming
+Date	: 2020-02-23 11:08:58
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 23-Feb-20 @ 12:09PM Amt: NGN200.00 Av.Bal: NGN 28,348.75
+#252
+Type	: Incoming
+Date	: 2020-02-22 23:10:17
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From - 23-Feb-20 @ 12:10AM Amt: NGN28,000.00 Av.Bal: NGN 28,548.75
+#253
+Type	: Incoming
+Date	: 2020-02-22 15:09:44
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To KOLAWOLE BOLA R-FIRSTBANK 22-Feb-20 @ 4:09PM Amt: NGN2,000.00 Av.Bal: NGN 789.50
+#254
+Type	: Incoming
+Date	: 2020-02-22 15:06:02
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP From 10000420022214594110006718 0308 Paycom PAYREF:1000042002221459 41100067180308 SENDER: Tobiloba Fem I Makanjuola REMARK: Transfer F 22-Feb-20 @ 4:05PM Amt: NGN1,100.00 Av.Bal: NGN 2,789.50
+#255
+Type	: Incoming
+Date	: 2020-02-22 11:16:23
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Sulaimon Gbadeb-PAYCOM 22-Feb-20 @ 12:16PM Amt: NGN3,000.00 Av.Bal: NGN 1,689.50
+#256
+Type	: Outgoing
+Date	: 2020-02-21 20:07:59
+Status	: NOT_RECEIVED
+Message	: Arrive soon.
+#257
+Type	: Incoming
+Date	: 2020-02-20 08:57:27
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - Kudi LA LANG 20-Feb-20 @ 9:57AM Amt: NGN10,000.00 Av.Bal: NGN 6,700.25
+#258
+Type	: Incoming
+Date	: 2020-02-20 08:02:32
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 20-Feb-20 @ 9:01AM Amt: NGN1,500.00 Av.Bal: NGN 16,700.25
+#259
+Type	: Incoming
+Date	: 2020-02-20 05:10:35
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From OLADOSU ADEWO-GTB 20-Feb-20 @ 6:10AM Amt: NGN14,000.00 Av.Bal: NGN 18,200.25
+#260
+Type	: Incoming
+Date	: 2020-02-19 15:52:11
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From ENIO LA.DL-Sterling Bank 19-Feb-20 @ 4:52PM Amt: NGN4,100.00 Av.Bal: NGN 4,200.25
+#261
+Type	: Incoming
+Date	: 2020-02-19 12:20:48
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - Kudi LA LANG 19-Feb-20 @ 1:20PM Amt: NGN1,600.00 Av.Bal: NGN 100.25
+#262
+Type	: Incoming
+Date	: 2020-02-18 10:44:42
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - Kudi LA LANG 18-Feb-20 @ 11:44AM Amt: NGN2,100.00 Av.Bal: NGN 1,700.25
+#263
+Type	: Incoming
+Date	: 2020-02-17 19:25:14
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 17-Feb-20 @ 8:24PM Amt: NGN200.00 Av.Bal: NGN 3,800.25
+#264
+Type	: Incoming
+Date	: 2020-02-17 16:11:36
+Status	: NOT_RECEIVED
+Message	: Kiki is on Whatsapp! Save the number 0906 000 6449 and join the WhatsApp Geng now to transfer, view statement, buy airtime & more. Info? https://rrj.nu/H0BpbyAx
+#265
+Type	: Incoming
+Date	: 2020-02-16 16:14:28
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - Kudi LA LANG 16-Feb-20 @ 5:14PM Amt: NGN2,100.00 Av.Bal: NGN 4,000.25
+#266
+Type	: Incoming
+Date	: 2020-02-16 09:34:31
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - Kudi LA LANG 16-Feb-20 @ 10:34AM Amt: NGN5,000.00 Av.Bal: NGN 6,100.25
+#267
+Type	: Incoming
+Date	: 2020-02-16 09:26:40
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 16-Feb-20 @ 10:26AM Amt: NGN200.00 Av.Bal: NGN 11,100.25
+#268
+Type	: Incoming
+Date	: 2020-02-15 18:08:41
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 17-Feb-20 @ 1:29AM Amt: NGN200.00 Av.Bal: NGN 11,300.25
+#269
+Type	: Incoming
+Date	: 2020-02-15 18:08:18
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Reversal VTU/ REF:BPD20200215190755 9621789079824626200/Sterling.BPM I 15-Feb-20 @ 7:08PM Amt: NGN200.00 Av.Bal: NGN 11,500.25
+#270
+Type	: Incoming
+Date	: 2020-02-15 18:08:08
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 15-Feb-20 @ 7:08PM Amt: NGN200.00 Av.Bal: NGN 11,300.25
+#271
+Type	: Incoming
+Date	: 2020-02-15 09:59:59
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From - 15-Feb-20 @ 11:00AM Amt: NGN4,500.00 Av.Bal: NGN 11,500.25
+#272
+Type	: Incoming
+Date	: 2020-02-14 06:44:47
+Status	: NOT_RECEIVED
+Message	: Love is easily confessed but true and sincere love is actually expressed.i love you so much no one can replace you in my heart.happy val
+#273
+Type	: Incoming
+Date	: 2020-02-14 06:22:52
+Status	: NOT_RECEIVED
+Message	: Thanks my love
+#274
+Type	: Outgoing
+Date	: 2020-02-14 05:51:39
+Status	: NOT_RECEIVED
+Message	: My heart beats for you my love my life that live for you when you are not around me nothing seems so good oh new baby be as you are my love l simply cannot live without you l love you so much so lost in your touch,wishing a happy valentine's day to you
+#275
+Type	: Incoming
+Date	: 2020-02-14 04:34:19
+Status	: NOT_RECEIVED
+Message	: My heart beats for you my love my life that live for you when you are not around me nothing seems so good oh new baby be as you are my love l simply cannot live without you l love you so much so lost in your touch,wishing a happy valentine's day to you
+#276
+Type	: Incoming
+Date	: 2020-02-13 20:33:09
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 13-Feb-20 @ 9:33PM Amt: NGN200.00 Av.Bal: NGN 7,180.25
+#277
+Type	: Incoming
+Date	: 2020-02-13 08:36:50
+Status	: NOT_RECEIVED
+Message	: Account number:0163583195, Account name: Mokanjuola Esther Adeola, gtbank
+#278
+Type	: Incoming
+Date	: 2020-02-12 21:21:13
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 12-Feb-20 @ 10:21PM Amt: NGN200.00 Av.Bal: NGN 7,580.25
+#279
+Type	: Incoming
+Date	: 2020-02-12 18:20:24
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - TEAMAPT LIMITED LA LANG 12-Feb-20 @ 4:20PM Amt: NGN10,200.00 Av.Bal: NGN 7,780.25
+#280
+Type	: Incoming
+Date	: 2020-02-12 17:42:50
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From IBUKUN.OO-Sterling Bank 12-Feb-20 @ 6:42PM Amt: NGN10,948.00 Av.Bal: NGN 17,980.25
+#281
+Type	: Incoming
+Date	: 2020-02-12 10:05:33
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To TEMITOPE. WO-Sterling Bank 12-Feb-20 @ 7:39PM Amt: NGN500.00 Av.Bal: NGN 7,032.25
+#282
+Type	: Incoming
+Date	: 2020-02-11 21:01:54
+Status	: NOT_RECEIVED
+Message	: Please call me back. I love you
+#283
+Type	: Incoming
+Date	: 2020-02-11 21:01:25
+Status	: NOT_RECEIVED
+Message	: Please call me back. I love you
+#284
+Type	: Incoming
+Date	: 2020-02-11 07:33:21
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 11-Feb-20 @ 8:33AM Amt: NGN200.00 Av.Bal: NGN 7,532.25
+#285
+Type	: Incoming
+Date	: 2020-02-10 15:53:04
+Status	: NOT_RECEIVED
+Message	: Please call me
+#286
+Type	: Incoming
+Date	: 2020-02-10 11:53:54
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - TEAMAPT LIMITED LA LANG 10-Feb-20 @ 12:54PM Amt: NGN3,100.00 Av.Bal: NGN 7,732.25
+#287
+Type	: Outgoing
+Date	: 2020-02-10 10:09:35
+Status	: NOT_RECEIVED
+Message	: Arrive soon.
+#288
+Type	: Incoming
+Date	: 2020-02-09 23:15:42
+Status	: NOT_RECEIVED
+Message	: Three Gbosa for you Mokanjuola Oluwatobiloba ! We wish you long life and a larger bank account. Happy Birthday! We love you.
+#289
+Type	: Outgoing
+Date	: 2020-02-08 22:21:27
+Status	: NOT_RECEIVED
+Message	: You are cheating ..you lie to me
+#290
+Type	: Incoming
+Date	: 2020-02-08 22:19:26
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 8-Feb-20 @ 11:19PM Amt: NGN200.00 Av.Bal: NGN 10,832.25
+#291
+Type	: Incoming
+Date	: 2020-02-08 13:41:04
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - ECOSYSTEM ACCELEREX NETLA LANG 8-Feb-20 @ 2:41PM Amt: NGN3,000.00 Av.Bal: NGN 11,132.25
+#292
+Type	: Incoming
+Date	: 2020-02-07 18:11:50
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 7-Feb-20 @ 7:11PM Amt: NGN200.00 Av.Bal: NGN 14,232.25
+#293
+Type	: Incoming
+Date	: 2020-02-07 14:58:26
+Status	: NOT_RECEIVED
+Message	: Evangelism is the heartbeat of God therefore kindly join us tomorrow @C.A.C Oke ALAFIA by 6am to spread the Gospel of peace to the people of OBAMORO village.
+#294
+Type	: Incoming
+Date	: 2020-02-07 12:37:21
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - TEAMAPT LIMITED LA LANG 7-Feb-20 @ 1:37PM Amt: NGN4,100.00 Av.Bal: NGN 14,432.25
+#295
+Type	: Incoming
+Date	: 2020-02-06 16:46:20
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 6-Feb-20 @ 5:46PM Amt: NGN1,500.00 Av.Bal: NGN 18,532.25
+#296
+Type	: Incoming
+Date	: 2020-02-06 11:34:13
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: USSD/415387831104521436721464/Trans Fer Of 3000.00 From MOKANJUOLA OLUW ATOBILOBA To IBRAHIM ADEGOKE RASHEE DUSSD Ref 415387831104521436721464/ 6-Feb-20 @ 12:34PM Amt: NGN3,000.00 Av.Bal: NGN 20,053.75
+#297
+Type	: Incoming
+Date	: 2020-02-06 10:51:21
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: USSD/432815611040441436570466/Trans Fer Of 10000.00 From MOKANJUOLA OLU WATOBILOBA To IBRAHIM ADEGOKE RASHE EDUSSD Ref 432815611040441436570466 6-Feb-20 @ 11:51AM Amt: NGN10,000.00 Av.Bal: NGN 20,053.75
+#298
+Type	: Incoming
+Date	: 2020-02-05 21:10:36
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 6-Feb-20 @ 6:52PM Amt: NGN300.00 Av.Bal: NGN 33,086.00
+#299
+Type	: Incoming
+Date	: 2020-02-05 18:57:49
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - TEAMAPT LIMITED LA LANG 5-Feb-20 @ 7:57PM Amt: NGN10,200.00 Av.Bal: NGN 33,386.00
+#300
+Type	: Incoming
+Date	: 2020-02-05 07:33:07
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To Tobiloba Femi M-PAYCOM 5-Feb-20 @ 8:33AM Amt: NGN2,000.00 Av.Bal: NGN 43,586.00
+#301
+Type	: Incoming
+Date	: 2020-02-05 06:15:21
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 5-Feb-20 @ 7:15AM Amt: NGN200.00 Av.Bal: NGN 45,596.75
+#302
+Type	: Incoming
+Date	: 2020-02-04 19:26:44
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From IBUKUN.OO-Sterling Bank 4-Feb-20 @ 8:26PM Amt: NGN10,788.00 Av.Bal: NGN 45,796.75
+#303
+Type	: Incoming
+Date	: 2020-02-04 08:21:57
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 4-Feb-20 @ 9:22AM Amt: NGN170.00 Av.Bal: NGN 35,008.75
+#304
+Type	: Incoming
+Date	: 2020-02-04 08:20:39
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 4-Feb-20 @ 9:20AM Amt: NGN200.00 Av.Bal: NGN 35,178.75
+#305
+Type	: Incoming
+Date	: 2020-02-04 07:21:57
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 4-Feb-20 @ 9:21AM Amt: NGN200.00 Av.Bal: NGN 35,378.75
+#306
+Type	: Incoming
+Date	: 2020-02-03 19:30:51
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 3-Feb-20 @ 8:30PM Amt: NGN200.00 Av.Bal: NGN 35,578.75
+#307
+Type	: Incoming
+Date	: 2020-02-03 17:08:54
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To ADESHINA PETER -SKYE 3-Feb-20 @ 6:09PM Amt: NGN4,000.00 Av.Bal: NGN 35,789.50
+#308
+Type	: Incoming
+Date	: 2020-02-03 15:34:17
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OKANLAWON BIODU-FIRSTBANK 3-Feb-20 @ 4:34PM Amt: NGN2,000.00 Av.Bal: NGN 39,800.25
+#309
+Type	: Incoming
+Date	: 2020-02-02 22:36:34
+Status	: NOT_RECEIVED
+Message	: As the light goes dim and the world goes silent let eyes and body take some rest ..make sure to make it sweet and sound ... Good nite
+#310
+Type	: Incoming
+Date	: 2020-02-02 21:19:07
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 2-Feb-20 @ 10:19PM Amt: NGN200.00 Av.Bal: NGN 41,800.25
+#311
+Type	: Incoming
+Date	: 2020-02-02 19:29:19
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From SEGUN DOLAPO A-STANBIC 2-Feb-20 @ 8:29PM Amt: NGN900.00 Av.Bal: NGN 42,000.25
+#312
+Type	: Incoming
+Date	: 2020-02-02 17:20:23
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - PAYCOM NIGERIA LIMITED LA LANG 2-Feb-20 @ 6:20PM Amt: NGN5,000.00 Av.Bal: NGN 41,100.25
+#313
+Type	: Incoming
+Date	: 2020-02-02 13:47:13
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From ENIO LA.DL-Sterling Bank 3-Feb-20 @ 12:35PM Amt: NGN19,100.00 Av.Bal: NGN 46,100.25
+#314
+Type	: Incoming
+Date	: 2020-02-02 12:43:46
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 2-Feb-20 @ 1:43PM Amt: NGN200.00 Av.Bal: NGN 27,000.25
+#315
+Type	: Incoming
+Date	: 2020-02-01 17:10:37
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 1-Feb-20 @ 6:10PM Amt: NGN200.00 Av.Bal: NGN 27,200.25
+#316
+Type	: Incoming
+Date	: 2020-02-01 16:31:52
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - TEAMAPT LIMITED LA LANG 1-Feb-20 @ 5:32PM Amt: NGN3,100.00 Av.Bal: NGN 27,200.25
+#317
+Type	: Incoming
+Date	: 2020-02-01 07:31:03
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 1-Feb-20 @ 8:31AM Amt: NGN200.00 Av.Bal: NGN 30,500.25
+#318
+Type	: Incoming
+Date	: 2020-01-31 22:06:22
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To ADEOLA JAMES-UBA 31-Jan-20 @ 11:06PM Amt: NGN20,000.00 Av.Bal: NGN 30,700.25
+#319
+Type	: Incoming
+Date	: 2020-01-31 21:54:03
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From ENIO LA.DL-Sterling Bank 31-Jan-20 @ 10:54PM Amt: NGN20,700.00 Av.Bal: NGN 50,726.50
+#320
+Type	: Incoming
+Date	: 2020-01-31 14:58:51
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 31-Jan-20 @ 3:58PM Amt: NGN200.00 Av.Bal: NGN 30,026.50
+#321
+Type	: Incoming
+Date	: 2020-01-31 14:54:23
+Status	: NOT_RECEIVED
+Message	: Good afternoon,is me hikimat pls I need your help I need mtn card pls
+#322
+Type	: Incoming
+Date	: 2020-01-31 11:29:44
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To MUSLIM TAIWO WA-FIRSTBANK 31-Jan-20 @ 1:53AM Amt: NGN3,000.00 Av.Bal: NGN 30,226.50
+#323
+Type	: Incoming
+Date	: 2020-01-30 20:44:47
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 30-Jan-20 @ 9:44PM Amt: NGN200.00 Av.Bal: NGN 33,237.00
+#324
+Type	: Incoming
+Date	: 2020-01-30 19:22:57
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From ENIOL A.DL-Sterling Bank 30-Jan-20 @ 8:22PM Amt: NGN10,500.00 Av.Bal: NGN 33,437.00
+#325
+Type	: Incoming
+Date	: 2020-01-30 19:20:24
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To ADEOLA JAMES-UBA 31-Jan-20 @ 8:31PM Amt: NGN10,000.00 Av.Bal: NGN 22,963.25
+#326
+Type	: Incoming
+Date	: 2020-01-30 18:47:24
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To ADEOLA JAMES-UBA 30-Jan-20 @ 12:53AM Amt: NGN39,000.00 Av.Bal: NGN 32,989.50
+#327
+Type	: Incoming
+Date	: 2020-01-30 18:44:27
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From ENIOLA.DL-Sterling Bank 30-Jan-20 @ 7:44PM Amt: NGN47,500.00 Av.Bal: NGN 71,989.50
+#328
+Type	: Incoming
+Date	: 2020-01-30 18:40:07
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To ENIOLA AFEEZ AY-UBA 30-Jan-20 @ 7:40PM Amt: NGN3,000.00 Av.Bal: NGN 24,500.00
+#329
+Type	: Incoming
+Date	: 2020-01-30 11:20:06
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To OLAWAL E.TO-Sterling Bank 30-Jan-20 @ 12:20PM Amt: NGN2,000.00 Av.Bal: NGN 27,500.00
+#330
+Type	: Incoming
+Date	: 2020-01-30 09:06:25
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 30-Jan-20 @ 10:06AM Amt: NGN200.00 Av.Bal: NGN 29,500.00
+#331
+Type	: Incoming
+Date	: 2020-01-29 20:27:04
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 29-Jan-20 @ 9:27PM Amt: NGN200.00 Av.Bal: NGN 29,700.00
+#332
+Type	: Incoming
+Date	: 2020-01-29 11:48:09
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - TEAMAPT LIMITED LA LANG 29-Jan-20 @ 12:48PM Amt: NGN3,100.00 Av.Bal: NGN 29,900.00
+#333
+Type	: Incoming
+Date	: 2020-01-29 09:26:22
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 29-Jan-20 @ 10:26AM Amt: NGN1,000.00 Av.Bal: NGN 33,000.00
+#334
+Type	: Incoming
+Date	: 2020-01-28 19:42:58
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 28-Jan-20 @ 8:43PM Amt: NGN170.00 Av.Bal: NGN 34,000.00
+#335
+Type	: Incoming
+Date	: 2020-01-28 18:38:14
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - TEAMAPT LIMITED LA LANG 28-Jan-20 @ 7:38PM Amt: NGN2,100.00 Av.Bal: NGN 34,170.00
+#336
+Type	: Incoming
+Date	: 2020-01-27 20:21:55
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 27-Jan-20 @ 9:22PM Amt: NGN200.00 Av.Bal: NGN 36,270.00
+#337
+Type	: Incoming
+Date	: 2020-01-27 19:49:57
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - TEAMAPT LIMITED LA LANG 27-Jan-20 @ 8:50PM Amt: NGN5,100.00 Av.Bal: NGN 36,470.00
+#338
+Type	: Incoming
+Date	: 2020-01-27 18:38:00
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 27-Jan-20 @ 7:38PM Amt: NGN200.00 Av.Bal: NGN 41,570.00
+#339
+Type	: Incoming
+Date	: 2020-01-26 14:00:05
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 26-Jan-20 @ 2:57PM Amt: NGN200.00 Av.Bal: NGN 41,770.00
+#340
+Type	: Incoming
+Date	: 2020-01-26 09:58:06
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Stanbic@Iwotown 3Branch Iwo OSNG 26-Jan-20 @ 10:58AM Amt: NGN5,000.00 Av.Bal: NGN 41,970.00
+#341
+Type	: Incoming
+Date	: 2020-01-25 16:31:18
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 25-Jan-20 @ 5:31PM Amt: NGN200.00 Av.Bal: NGN 47,106.75
+#342
+Type	: Incoming
+Date	: 2020-01-25 15:56:51
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From - 25-Jan-20 @ 4:56PM Amt: NGN35,000.00 Av.Bal: NGN 47,306.75
+#343
+Type	: Incoming
+Date	: 2020-01-25 15:46:47
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 25-Jan-20 @ 4:46PM Amt: NGN200.00 Av.Bal: NGN 12,306.75
+#344
+Type	: Incoming
+Date	: 2020-01-25 10:38:30
+Status	: NOT_RECEIVED
+Message	: Please call me back. I love you
+#345
+Type	: Incoming
+Date	: 2020-01-24 19:46:47
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: USSD/13691139424553/Reversal For US SD Airtime To Mobile 2348109905566. Ref: 33719565/CLICATELL.A/MOKANJUO LA.O 24-Jan-20 @ 8:46PM Amt: NGN200.00 Av.Bal: NGN 12,564.25
+#346
+Type	: Incoming
+Date	: 2020-01-24 19:43:47
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 24-Jan-20 @ 8:41PM Amt: NGN200.00 Av.Bal: NGN 12,364.25
+#347
+Type	: Incoming
+Date	: 2020-01-24 19:43:35
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 24-Jan-20 @ 8:41PM Amt: NGN200.00 Av.Bal: NGN 12,564.25
+#348
+Type	: Incoming
+Date	: 2020-01-24 17:37:07
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 24-Jan-20 @ 6:37PM Amt: NGN200.00 Av.Bal: NGN 12,764.25
+#349
+Type	: Incoming
+Date	: 2020-01-23 12:56:04
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OKPORIE SAMUEL -FIRSTBANK 23-Jan-20 @ 1:56PM Amt: NGN2,000.00 Av.Bal: NGN 12,974.75
+#350
+Type	: Incoming
+Date	: 2020-01-23 09:49:04
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To KEHINDE EMMANUE-STANBICIBTC 23-Jan-20 @ 10:49AM Amt: NGN25,000.00 Av.Bal: NGN 15,001.00
+#351
+Type	: Incoming
+Date	: 2020-01-22 09:35:51
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 22-Jan-20 @ 10:35AM Amt: NGN200.00 Av.Bal: NGN 40,001.00
+#352
+Type	: Incoming
+Date	: 2020-01-21 21:42:50
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 21-Jan-20 @ 10:42PM Amt: NGN200.00 Av.Bal: NGN 40,201.00
+#353
+Type	: Incoming
+Date	: 2020-01-21 15:23:42
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From MOKANJUOLA ES-GTB 21-Jan-20 @ 2:16AM Amt: NGN5,000.00 Av.Bal: NGN 40,401.00
+#354
+Type	: Incoming
+Date	: 2020-01-21 14:03:42
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Kajola Area IWO OSNG 21-Jan-20 @ 3:03PM Amt: NGN5,000.00 Av.Bal: NGN 35,401.00
+#355
+Type	: Incoming
+Date	: 2020-01-20 17:07:30
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To IBRAHIM.AR-Sterling Bank 20-Jan-20 @ 12:57AM Amt: NGN10,000.00 Av.Bal: NGN 40,437.75
+#356
+Type	: Incoming
+Date	: 2020-01-20 11:04:35
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 20-Jan-20 @ 12:04PM Amt: NGN200.00 Av.Bal: NGN 50,437.75
+#357
+Type	: Incoming
+Date	: 2020-01-20 10:48:34
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To AZEEZ.I-Sterling Bank 20-Jan-20 @ 11:48AM Amt: NGN2,100.00 Av.Bal: NGN 50,637.75
+#358
+Type	: Incoming
+Date	: 2020-01-19 18:56:42
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 20-Jan-20 @ 2:08AM Amt: NGN200.00 Av.Bal: NGN 52,737.75
+#359
+Type	: Incoming
+Date	: 2020-01-19 13:11:16
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ Other Bank Terminal 19-Jan-20 @ 2:11PM Amt: NGN8,000.00 Av.Bal: NGN 52,937.75
+#360
+Type	: Incoming
+Date	: 2020-01-19 06:36:24
+Status	: NOT_RECEIVED
+Message	: <#> Do not share this code with anyone. Your Onepay OTP is 867462, valid for 5 minutes. Call 070078375464 if you did not initiate this request. jwaFdn4sQYd
+#361
+Type	: Incoming
+Date	: 2020-01-18 06:22:26
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From - 18-Jan-20 @ 7:22AM Amt: NGN14,000.00 Av.Bal: NGN 65,137.75
+#362
+Type	: Incoming
+Date	: 2020-01-17 08:01:02
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: USSD/832678710900301326976398/Trans Fer Of 5000.00 From MOKANJUOLA OLUW ATOBILOBA To OLAWALE TOLULOPE OLUWA BUNMIUSSD Ref 832678710900301326976 17-Jan-20 @ 9:00AM Amt: NGN5,000.00 Av.Bal: NGN 51,158.75
+#363
+Type	: Outgoing
+Date	: 2020-01-16 23:50:50
+Status	: NOT_RECEIVED
+Message	: Your smile is cause for celebration. Your love is the most precious gift in the world. Your kisses could light a thousand birthday candles. Happy Birthday to someone who makes life itself feel like a special occasion
+#364
+Type	: Outgoing
+Date	: 2020-01-16 23:49:50
+Status	: NOT_RECEIVED
+Message	: It’s your birthday, but I’m the one who should be celebrating the most. My favorite person in the world was born on this day.
+#365
+Type	: Incoming
+Date	: 2020-01-16 21:30:04
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 16-Jan-20 @ 9:11PM Amt: NGN200.00 Av.Bal: NGN 56,158.75
+#366
+Type	: Incoming
+Date	: 2020-01-16 16:51:47
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 16-Jan-20 @ 5:50PM Amt: NGN200.00 Av.Bal: NGN 56,358.75
+#367
+Type	: Incoming
+Date	: 2020-01-16 11:05:29
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 16-Jan-20 @ 12:05PM Amt: NGN200.00 Av.Bal: NGN 56,558.75
+#368
+Type	: Incoming
+Date	: 2020-01-16 10:26:38
+Status	: NOT_RECEIVED
+Message	: Please send me credit
+#369
+Type	: Incoming
+Date	: 2020-01-16 10:01:39
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ STERLING BANK TERMINAL - STERLING BOWEN IWO OSUN SWNG 16-Jan-20 @ 11:01AM Amt: NGN2,000.00 Av.Bal: NGN 56,758.75
+#370
+Type	: Incoming
+Date	: 2020-01-16 10:00:46
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ STERLING BANK TERMINAL - STERLING BOWEN IWO OSUN SWNG 16-Jan-20 @ 11:00AM Amt: NGN2,000.00 Av.Bal: NGN 58,758.75
+#371
+Type	: Incoming
+Date	: 2020-01-16 01:49:38
+Status	: NOT_RECEIVED
+Message	: <#> Do not share this code with anyone. Your Onepay OTP is 145778, valid for 5 minutes. Call 070078375464 if you did not initiate this request. jwaFdn4sQYd
+#372
+Type	: Incoming
+Date	: 2020-01-16 01:48:06
+Status	: NOT_RECEIVED
+Message	: <#> Do not share this code with anyone. Your Onepay OTP is 311050, valid for 5 minutes. Call 070078375464 if you did not initiate this request. jwaFdn4sQYd
+#373
+Type	: Incoming
+Date	: 2020-01-16 01:47:34
+Status	: NOT_RECEIVED
+Message	: <#> Do not share this code with anyone. Your Onepay OTP is 503011, valid for 5 minutes. Call 070078375464 if you did not initiate this request. jwaFdn4sQYd
+#374
+Type	: Incoming
+Date	: 2020-01-15 23:10:42
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From - 16-Jan-20 @ 12:10AM Amt: NGN40,000.00 Av.Bal: NGN 60,758.75
+#375
+Type	: Incoming
+Date	: 2020-01-15 16:58:14
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 15-Jan-20 @ 5:58PM Amt: NGN200.00 Av.Bal: NGN 20,758.75
+#376
+Type	: Incoming
+Date	: 2020-01-15 11:18:46
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ STERLING BANK TERMINAL - STERLING BOWEN IWO OSUN SWNG 15-Jan-20 @ 12:18PM Amt: NGN7,000.00 Av.Bal: NGN 20,958.75
+#377
+Type	: Incoming
+Date	: 2020-01-15 11:17:51
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ STERLING BANK TERMINAL - STERLING BOWEN IWO OSUN SWNG 15-Jan-20 @ 12:17PM Amt: NGN20,000.00 Av.Bal: NGN 27,958.75
+#378
+Type	: Incoming
+Date	: 2020-01-15 10:27:04
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From IBUKUN.OO-Sterling Bank 15-Jan-20 @ 11:27AM Amt: NGN27,209.00 Av.Bal: NGN 47,958.75
+#379
+Type	: Incoming
+Date	: 2020-01-14 18:02:46
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 14-Jan-20 @ 7:02PM Amt: NGN200.00 Av.Bal: NGN 20,749.75
+#380
+Type	: Incoming
+Date	: 2020-01-14 13:26:31
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - PAYCOM NIGERIA LIMITED LA LANG 14-Jan-20 @ 2:25PM Amt: NGN3,100.00 Av.Bal: NGN 20,949.75
+#381
+Type	: Incoming
+Date	: 2020-01-14 10:14:15
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 14-Jan-20 @ 11:14AM Amt: NGN200.00 Av.Bal: NGN 24,049.75
+#382
+Type	: Incoming
+Date	: 2020-01-13 07:29:43
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 13-Jan-20 @ 8:29AM Amt: NGN200.00 Av.Bal: NGN 24,249.75
+#383
+Type	: Incoming
+Date	: 2020-01-12 19:04:31
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - PAYCOM NIGERIA LIMITED LA LANG 12-Jan-20 @ 8:04PM Amt: NGN3,100.00 Av.Bal: NGN 24,449.75
+#384
+Type	: Incoming
+Date	: 2020-01-12 18:26:41
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From - 12-Jan-20 @ 7:26PM Amt: NGN7,000.00 Av.Bal: NGN 27,549.75
+#385
+Type	: Incoming
+Date	: 2020-01-12 11:14:01
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 12-Jan-20 @ 12:14PM Amt: NGN200.00 Av.Bal: NGN 20,549.75
+#386
+Type	: Incoming
+Date	: 2020-01-12 10:56:40
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - TEAMAPT LIMITED MONN LA LANG 12-Jan-20 @ 11:56AM Amt: NGN6,150.00 Av.Bal: NGN 20,749.75
+#387
+Type	: Incoming
+Date	: 2020-01-12 07:41:40
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From - 12-Jan-20 @ 8:41AM Amt: NGN14,000.00 Av.Bal: NGN 26,899.75
+#388
+Type	: Incoming
+Date	: 2020-01-12 01:15:33
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: SMS NOTIFICATION CHARGE FOR 2019 DE CEMBER 15TH -31ST DECEMBER - NGN 13-Jan-20 @ 5:38PM Amt: NGN124.00 Av.Bal: NGN 12,899.75
+#389
+Type	: Incoming
+Date	: 2020-01-12 00:06:07
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From - 12-Jan-20 @ 1:06AM Amt: NGN13,000.00 Av.Bal: NGN 13,023.75
+#390
+Type	: Incoming
+Date	: 2020-01-11 13:46:00
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - PAYCOM NIGERIA LIMITED LA LANG 11-Jan-20 @ 2:46PM Amt: NGN1,500.00 Av.Bal: NGN 23.75
+#391
+Type	: Incoming
+Date	: 2020-01-10 09:03:27
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To IBRAHIM ADEGOKE-STERLING 10-Jan-20 @ 10:03AM Amt: NGN2,500.00 Av.Bal: NGN 1,534.25
+#392
+Type	: Incoming
+Date	: 2020-01-10 08:14:32
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OLATUNDE SAHEED-UBA 10-Jan-20 @ 9:13AM Amt: NGN18,900.00 Av.Bal: NGN 4,060.50
+#393
+Type	: Incoming
+Date	: 2020-01-09 21:56:26
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From ENIOL A.DL-Sterling Bank 9-Jan-20 @ 10:56PM Amt: NGN21,000.00 Av.Bal: NGN 22,960.50
+#394
+Type	: Incoming
+Date	: 2020-01-09 20:42:55
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 9-Jan-20 @ 9:43PM Amt: NGN200.00 Av.Bal: NGN 1,960.50
+#395
+Type	: Incoming
+Date	: 2020-01-09 18:48:23
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OLATUNDE SAHEED-UBA 9-Jan-20 @ 7:48PM Amt: NGN20,000.00 Av.Bal: NGN 2,186.75
+#396
+Type	: Incoming
+Date	: 2020-01-09 17:17:16
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Kajola Area IWO OSNG 9-Jan-20 @ 2:32AM Amt: NGN2,000.00 Av.Bal: NGN 22,186.75
+#397
+Type	: Incoming
+Date	: 2020-01-09 13:05:52
+Status	: NOT_RECEIVED
+Message	: Thanks
+#398
+Type	: Outgoing
+Date	: 2020-01-09 11:13:22
+Status	: NOT_RECEIVED
+Message	: Hope you good...and how was your journey...be fine and take good card of your self
+#399
+Type	: Incoming
+Date	: 2020-01-09 09:34:12
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From ENIOL A.DL-Sterling Bank 9-Jan-20 @ 10:34AM Amt: NGN24,100.00 Av.Bal: NGN 24,223.50
+#400
+Type	: Incoming
+Date	: 2020-01-09 08:52:53
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 9-Jan-20 @ 9:53AM Amt: NGN200.00 Av.Bal: NGN 123.50
+#401
+Type	: Incoming
+Date	: 2020-01-08 11:43:34
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ STERLING BANK TERMINAL - STERLING BOWEN IWO OSUN SWNG 8-Jan-20 @ 12:43PM Amt: NGN2,000.00 Av.Bal: NGN 323.50
+#402
+Type	: Incoming
+Date	: 2020-01-07 14:14:28
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 7-Jan-20 @ 3:14PM Amt: NGN200.00 Av.Bal: NGN 2,323.50
+#403
+Type	: Incoming
+Date	: 2020-01-07 09:53:55
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 7-Jan-20 @ 8:34AM Amt: NGN200.00 Av.Bal: NGN 2,523.50
+#404
+Type	: Incoming
+Date	: 2020-01-07 09:53:14
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OLATUNDE SAHEED-UBA 7-Jan-20 @ 10:53AM Amt: NGN10,000.00 Av.Bal: NGN 2,749.75
+#405
+Type	: Incoming
+Date	: 2020-01-07 09:36:44
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From IBUKUN.OO-Sterling Bank 7-Jan-20 @ 10:36AM Amt: NGN12,600.00 Av.Bal: NGN 12,749.75
+#406
+Type	: Incoming
+Date	: 2020-01-06 22:21:18
+Status	: NOT_RECEIVED
+Message	: ✉ 336714
+#407
+Type	: Incoming
+Date	: 2020-01-06 22:02:01
+Status	: NOT_RECEIVED
+Message	: ✉ 425682
+#408
+Type	: Incoming
+Date	: 2020-01-06 22:01:37
+Status	: NOT_RECEIVED
+Message	: ✉ 425682
+#409
+Type	: Incoming
+Date	: 2020-01-06 21:57:08
+Status	: NOT_RECEIVED
+Message	: ✉ 416529
+#410
+Type	: Incoming
+Date	: 2020-01-06 15:31:58
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ Other Bank Terminal 6-Jan-20 @ 4:32PM Amt: NGN500.00 Av.Bal: NGN 149.75
+#411
+Type	: Incoming
+Date	: 2020-01-06 15:31:17
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ Other Bank Terminal 6-Jan-20 @ 4:31PM Amt: NGN1,000.00 Av.Bal: NGN 749.75
+#412
+Type	: Incoming
+Date	: 2020-01-06 15:26:49
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Kajola Area IWO OSNG 6-Jan-20 @ 4:26PM Amt: NGN10,000.00 Av.Bal: NGN 1,849.75
+#413
+Type	: Incoming
+Date	: 2020-01-06 15:09:58
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From IBUKUN.OO-Sterling Bank 6-Jan-20 @ 4:10PM Amt: NGN11,200.00 Av.Bal: NGN 11,849.75
+#414
+Type	: Incoming
+Date	: 2020-01-06 06:22:13
+Status	: NOT_RECEIVED
+Message	: Please call me back. I love you
+#415
+Type	: Incoming
+Date	: 2020-01-05 23:55:21
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 6-Jan-20 @ 12:55AM Amt: NGN200.00 Av.Bal: NGN 649.75
+#416
+Type	: Incoming
+Date	: 2020-01-05 19:58:15
+Status	: NOT_RECEIVED
+Message	: Please call me
+#417
+Type	: Incoming
+Date	: 2020-01-05 13:09:35
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Stanbic@Iwotown 4Branch Iwo OSNG 5-Jan-20 @ 2:09PM Amt: NGN12,000.00 Av.Bal: NGN 849.75
+#418
+Type	: Incoming
+Date	: 2020-01-05 12:59:49
+Status	: NOT_RECEIVED
+Message	: Please call me back. I love you
+#419
+Type	: Incoming
+Date	: 2020-01-05 12:37:12
+Status	: NOT_RECEIVED
+Message	: Please call me back. I love you
+#420
+Type	: Incoming
+Date	: 2020-01-04 21:17:50
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From IBUKUN.OO-Sterling Bank 4-Jan-20 @ 10:17PM Amt: NGN12,764.00 Av.Bal: NGN 12,849.75
+#421
+Type	: Incoming
+Date	: 2020-01-04 21:07:10
+Status	: NOT_RECEIVED
+Message	: <#> Do not share this code with anyone. Your Onepay OTP is 156853, valid for 5 minutes. Call 070078375464 if you did not initiate this request. jwaFdn4sQYd
+#422
+Type	: Incoming
+Date	: 2020-01-04 21:04:47
+Status	: NOT_RECEIVED
+Message	: <#> Do not share this code with anyone. Your Onepay OTP is 820301, valid for 5 minutes. Call 070078375464 if you did not initiate this request. jwaFdn4sQYd
+#423
+Type	: Incoming
+Date	: 2020-01-04 20:14:10
+Status	: NOT_RECEIVED
+Message	: Please call me back. I love you
+#424
+Type	: Incoming
+Date	: 2020-01-04 13:24:08
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Stanbic@Iwotown Branch Iwo OSNG 4-Jan-20 @ 2:24PM Amt: NGN8,000.00 Av.Bal: NGN 96.25
+#425
+Type	: Incoming
+Date	: 2020-01-04 07:48:44
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From ENIOLA.DL-Sterling Bank 4-Jan-20 @ 8:48AM Amt: NGN8,000.00 Av.Bal: NGN 8,096.25
+#426
+Type	: Incoming
+Date	: 2019-12-31 19:07:29
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - TEAMAPT LIMITED LA LANG 31-Dec-19 @ 8:07PM Amt: NGN1,100.00 Av.Bal: NGN 96.25
+#427
+Type	: Incoming
+Date	: 2019-12-29 15:12:07
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 30-Dec-19 @ 11:17PM Amt: NGN200.00 Av.Bal: NGN 1,196.25
+#428
+Type	: Incoming
+Date	: 2019-12-29 14:24:45
+Status	: NOT_RECEIVED
+Message	: Check out WhatsApp, I use it to message and call the people I care about. Get it for free at https://whatsapp.com/dl/
+#429
+Type	: Incoming
+Date	: 2019-12-28 22:00:53
+Status	: NOT_RECEIVED
+Message	: Call me back I called at 23:00 on 28/12. 07063684144
+#430
+Type	: Incoming
+Date	: 2019-12-27 19:08:06
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - PAYCOM NIGERIA LIMITED LA LANG 27-Dec-19 @ 8:08PM Amt: NGN2,100.00 Av.Bal: NGN 1,396.25
+#431
+Type	: Incoming
+Date	: 2019-12-26 17:53:19
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - TEAMAPT LIMITED LA LANG 26-Dec-19 @ 6:53PM Amt: NGN2,000.00 Av.Bal: NGN 3,496.25
+#432
+Type	: Incoming
+Date	: 2019-12-26 08:57:51
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 26-Dec-19 @ 9:57AM Amt: NGN200.00 Av.Bal: NGN 5,496.25
+#433
+Type	: Incoming
+Date	: 2019-12-25 20:24:15
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 25-Dec-19 @ 9:24PM Amt: NGN200.00 Av.Bal: NGN 5,696.25
+#434
+Type	: Incoming
+Date	: 2019-12-25 16:16:09
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP From 10000419122516134510003152 9641 Paycom PAYREF:1000041912251613 45100031529641 SENDER: Tobiloba Fem I Makanjuola REMARK: Transfer F 25-Dec-19 @ 5:16PM Amt: NGN1,000.00 Av.Bal: NGN 5,896.25
+#435
+Type	: Incoming
+Date	: 2019-12-25 15:22:40
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 25-Dec-19 @ 4:22PM Amt: NGN1,000.00 Av.Bal: NGN 4,896.25
+#436
+Type	: Incoming
+Date	: 2019-12-23 16:41:25
+Status	: NOT_RECEIVED
+Message	: Please call me
+#437
+Type	: Incoming
+Date	: 2019-12-23 08:54:32
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 23-Dec-19 @ 9:54AM Amt: NGN200.00 Av.Bal: NGN 5,896.25
+#438
+Type	: Incoming
+Date	: 2019-12-23 08:51:22
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - E - SETTLEMENT LIMITED LA LANG 23-Dec-19 @ 9:51AM Amt: NGN3,000.00 Av.Bal: NGN 6,096.25
+#439
+Type	: Incoming
+Date	: 2019-12-21 20:12:56
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: SMS NOTIFICATION CHARGE FOR 2019 NO VEMBER 15TH - 14TH DECEMBER -NGN 21-Dec-19 @ 9:12PM Amt: NGN520.00 Av.Bal: NGN 9,148.75
+#440
+Type	: Incoming
+Date	: 2019-12-21 19:57:08
+Status	: NOT_RECEIVED
+Message	: Please call me
+#441
+Type	: Incoming
+Date	: 2019-12-21 19:53:08
+Status	: NOT_RECEIVED
+Message	: Please call me back. I love you
+#442
+Type	: Incoming
+Date	: 2019-12-21 17:48:50
+Status	: NOT_RECEIVED
+Message	: Please call me back. I love you
+#443
+Type	: Incoming
+Date	: 2019-12-21 14:41:18
+Status	: NOT_RECEIVED
+Message	: Please call me
+#444
+Type	: Incoming
+Date	: 2019-12-20 18:34:19
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ Other Bank Terminal 20-Dec-19 @ 7:34PM Amt: NGN1,900.00 Av.Bal: NGN 9,668.75
+#445
+Type	: Incoming
+Date	: 2019-12-20 18:30:28
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 20-Dec-19 @ 7:30PM Amt: NGN200.00 Av.Bal: NGN 11,668.75
+#446
+Type	: Incoming
+Date	: 2019-12-20 17:14:40
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From ENIOLA.DL-Sterling Bank 20-Dec-19 @ 6:14PM Amt: NGN11,700.00 Av.Bal: NGN 11,868.75
+#447
+Type	: Incoming
+Date	: 2019-12-20 11:05:59
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - TEAMAPT LIMITED LA LANG 20-Dec-19 @ 12:05PM Amt: NGN2,000.00 Av.Bal: NGN 168.75
+#448
+Type	: Incoming
+Date	: 2019-12-19 20:04:32
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 19-Dec-19 @ 9:04PM Amt: NGN200.00 Av.Bal: NGN 2,168.75
+#449
+Type	: Outgoing
+Date	: 2019-12-19 12:01:43
+Status	: NOT_RECEIVED
+Message	: I am safe now. Don't worry.
+#450
+Type	: Incoming
+Date	: 2019-12-18 17:22:55
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OYEBAMIJI MOSUN-FIRSTBANK 18-Dec-19 @ 6:23PM Amt: NGN5,000.00 Av.Bal: NGN 2,368.75
+#451
+Type	: Incoming
+Date	: 2019-12-18 17:11:52
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OYEBAMIJI MOSUN-FIRSTBANK 18-Dec-19 @ 6:11PM Amt: NGN2,500.00 Av.Bal: NGN 7,473.75
+#452
+Type	: Incoming
+Date	: 2019-12-18 17:00:24
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ Other Bank Terminal 18-Dec-19 @ 4:58PM Amt: NGN4,000.00 Av.Bal: NGN 9,973.75
+#453
+Type	: Incoming
+Date	: 2019-12-18 14:57:40
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 18-Dec-19 @ 5:29AM Amt: NGN1,000.00 Av.Bal: NGN 14,073.75
+#454
+Type	: Incoming
+Date	: 2019-12-18 14:30:17
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To FAUSAT AMOKE TI-WEMA 18-Dec-19 @ 3:30PM Amt: NGN9,000.00 Av.Bal: NGN 15,126.25
+#455
+Type	: Incoming
+Date	: 2019-12-18 07:04:28
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 18-Dec-19 @ 8:04AM Amt: NGN200.00 Av.Bal: NGN 24,126.25
+#456
+Type	: Incoming
+Date	: 2019-12-17 12:04:34
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 17-Dec-19 @ 1:04PM Amt: NGN200.00 Av.Bal: NGN 24,326.25
+#457
+Type	: Incoming
+Date	: 2019-12-17 09:44:16
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ Other Bank Terminal 17-Dec-19 @ 10:44AM Amt: NGN2,900.00 Av.Bal: NGN 24,526.25
+#458
+Type	: Incoming
+Date	: 2019-12-16 11:06:46
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: ROE BANK VTU/REF:BPD201912122019067 888716009 86178800/Onepay/MOKANJUOL A.O/Bill P Ayment Ref 1105109061912 122019503 1620191244401167 16-Dec-19 @ 12:06PM Amt: NGN200.00 Av.Bal: NGN 27,526.25
+#459
+Type	: Incoming
+Date	: 2019-12-16 09:40:27
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - TEAMAPT LIMITED LA LANG 16-Dec-19 @ 10:40AM Amt: NGN3,100.00 Av.Bal: NGN 27,326.25
+#460
+Type	: Incoming
+Date	: 2019-12-15 11:14:40
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 15-Dec-19 @ 12:14PM Amt: NGN200.00 Av.Bal: NGN 30,426.25
+#461
+Type	: Incoming
+Date	: 2019-12-15 09:19:53
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Stanbic@IWO TOWN BRANCH IWO OSNG 15-Dec-19 @ 10:19AM Amt: NGN2,000.00 Av.Bal: NGN 30,626.25
+#462
+Type	: Incoming
+Date	: 2019-12-14 17:37:32
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From ENIOLA.DL-Sterling Bank 14-Dec-19 @ 6:37PM Amt: NGN23,100.00 Av.Bal: NGN 32,694.50
+#463
+Type	: Incoming
+Date	: 2019-12-13 09:42:02
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 13-Dec-19 @ 1:23AM Amt: NGN200.00 Av.Bal: NGN 9,594.50
+#464
+Type	: Incoming
+Date	: 2019-12-12 20:21:24
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 12-Dec-19 @ 9:21PM Amt: NGN200.00 Av.Bal: NGN 9,794.50
+#465
+Type	: Incoming
+Date	: 2019-12-12 19:20:16
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 12-Dec-19 @ 8:19PM Amt: NGN200.00 Av.Bal: NGN 10,094.50
+#466
+Type	: Incoming
+Date	: 2019-12-12 15:22:17
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: ROE BANK VTU-REF-BPD201912111911559 487811704 31017000-Onepay-MOKANJUOL A.O-Bill P Ayment Ref 1105109061912 111911744 12-Dec-19 @ 4:22PM Amt: NGN200.00 Av.Bal: NGN 10,294.50
+#467
+Type	: Incoming
+Date	: 2019-12-12 13:51:09
+Status	: NOT_RECEIVED
+Message	: Assistant manager DOLA of micro finance bank NO 25 Elegusi street 1st floor Ikeja Lagos (1) We request for group name and account number of any bank (2) Amount request for (3) six (6) month or a year to back back (4) Guarantor NOTE There will be a board meeting on Monday 16th of Dec 2019 with the members of Assistant manager DOLA of micro finance bank. TO OSCUL PRESIDENT
+#468
+Type	: Incoming
+Date	: 2019-12-12 11:10:04
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To JAMIU.AJ-Sterling Bank 12-Dec-19 @ 12:10PM Amt: NGN5,000.00 Av.Bal: NGN 10,094.50
+#469
+Type	: Incoming
+Date	: 2019-12-12 11:09:13
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To JAMIU.AJ-Sterling Bank 12-Dec-19 @ 12:09PM Amt: NGN5,000.00 Av.Bal: NGN 15,094.50
+#470
+Type	: Incoming
+Date	: 2019-12-12 09:28:51
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To MUSLIM TAIWO WA-FIRSTBANK 12-Dec-19 @ 10:28AM Amt: NGN15,000.00 Av.Bal: NGN 20,097.00
+#471
+Type	: Incoming
+Date	: 2019-12-11 20:22:21
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From IBUKUN.OO-Sterling Bank 11-Dec-19 @ 9:22PM Amt: NGN15,525.00 Av.Bal: NGN 35,147.00
+#472
+Type	: Incoming
+Date	: 2019-12-11 18:42:03
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 11-Dec-19 @ 7:42PM Amt: NGN200.00 Av.Bal: NGN 19,622.00
+#473
+Type	: Incoming
+Date	: 2019-12-11 18:35:25
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 11-Dec-19 @ 7:35PM Amt: NGN200.00 Av.Bal: NGN 19,822.00
+#474
+Type	: Incoming
+Date	: 2019-12-11 12:55:22
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Kajola Area IWO OSNG 11-Dec-19 @ 1:55PM Amt: NGN10,000.00 Av.Bal: NGN 20,022.00
+#475
+Type	: Incoming
+Date	: 2019-12-11 10:03:52
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ Other Bank Terminal 11-Dec-19 @ 11:03AM Amt: NGN3,000.00 Av.Bal: NGN 30,022.00
+#476
+Type	: Incoming
+Date	: 2019-12-10 20:06:04
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 10-Dec-19 @ 9:06PM Amt: NGN200.00 Av.Bal: NGN 33,122.00
+#477
+Type	: Incoming
+Date	: 2019-12-10 17:35:45
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From IBUKUN.OO-Sterling Bank 10-Dec-19 @ 6:35PM Amt: NGN10,385.00 Av.Bal: NGN 33,322.00
+#478
+Type	: Incoming
+Date	: 2019-12-10 08:23:03
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To BABATUNDE AZIZA-STANBICIBTC 10-Dec-19 @ 9:23AM Amt: NGN100,000.00 Av.Bal: NGN 22,939.50
+#479
+Type	: Incoming
+Date	: 2019-12-09 17:21:06
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - PAYCOM NIGERIA LIMITED LA LANG 9-Dec-19 @ 6:21PM Amt: NGN5,100.00 Av.Bal: NGN 122,989.50
+#480
+Type	: Incoming
+Date	: 2019-12-09 16:22:58
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 9-Dec-19 @ 5:23PM Amt: NGN200.00 Av.Bal: NGN 128,089.50
+#481
+Type	: Incoming
+Date	: 2019-12-09 16:20:15
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To AYODELE TAWAKAL-STANBICIBTC 9-Dec-19 @ 5:20PM Amt: NGN2,000.00 Av.Bal: NGN 128,342.00
+#482
+Type	: Incoming
+Date	: 2019-12-09 09:59:06
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: BANK PRN 31483814 GORC CLIC VTUP MT NN MT NZERO 092019122639934 9-Dec-19 @ 10:59AM Amt: NGN1,500.00 Av.Bal: NGN 130,342.00
+#483
+Type	: Incoming
+Date	: 2019-12-08 17:07:30
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 8-Dec-19 @ 6:07PM Amt: NGN200.00 Av.Bal: NGN 128,842.00
+#484
+Type	: Incoming
+Date	: 2019-12-08 09:18:05
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 9-Dec-19 @ 12:19AM Amt: NGN200.00 Av.Bal: NGN 129,042.00
+#485
+Type	: Incoming
+Date	: 2019-12-07 23:21:20
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Kajola Area IWO OSNG 8-Dec-19 @ 12:21AM Amt: NGN2,000.00 Av.Bal: NGN 129,242.00
+#486
+Type	: Incoming
+Date	: 2019-12-07 18:31:05
+Status	: NOT_RECEIVED
+Message	: Dear Customer, to complete your password recovery, please click on the link below https://mobile.bet9ja2.com/Mobile?c=fe1741&cid=8025146#/setNewPassword
+#487
+Type	: Incoming
+Date	: 2019-12-07 10:11:41
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Stanbic@IWO TOWN BRANCH IWO OSNG 7-Dec-19 @ 11:11AM Amt: NGN2,000.00 Av.Bal: NGN 131,242.00
+#488
+Type	: Incoming
+Date	: 2019-12-07 10:02:04
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To IBRAHIM.AR-Sterling Bank 7-Dec-19 @ 11:02AM Amt: NGN3,000.00 Av.Bal: NGN 133,242.00
+#489
+Type	: Incoming
+Date	: 2019-12-06 20:31:18
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 6-Dec-19 @ 9:31PM Amt: NGN200.00 Av.Bal: NGN 136,242.00
+#490
+Type	: Incoming
+Date	: 2019-12-06 15:57:28
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From IBUKUN.OO-Sterling Bank 6-Dec-19 @ 4:57PM Amt: NGN51,450.00 Av.Bal: NGN 136,442.00
+#491
+Type	: Incoming
+Date	: 2019-12-06 12:00:05
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ STERLING BANK TERMINAL - STERLING BOWEN IWO OSUN SWNG 6-Dec-19 @ 1:00PM Amt: NGN3,000.00 Av.Bal: NGN 84,992.00
+#492
+Type	: Incoming
+Date	: 2019-12-06 11:54:29
+Status	: NOT_RECEIVED
+Message	: <#> Do not share this code with anyone. Your Onepay OTP is 036665, valid for 5 minutes. Call 070078375464 if you did not initiate this request. jwaFdn4sQYd
+#493
+Type	: Incoming
+Date	: 2019-12-06 11:16:54
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Card Issuance Fee For ****1574 6-Dec-19 @ 12:16PM Amt: NGN1,000.00 Av.Bal: NGN 88,042.00
+#494
+Type	: Incoming
+Date	: 2019-12-06 01:44:44
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 6-Dec-19 @ 2:44AM Amt: NGN1,500.00 Av.Bal: NGN 89,042.00
+#495
+Type	: Incoming
+Date	: 2019-12-05 13:55:22
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ STERLING BANK TERMINAL - STERLING BOWEN IWO OSUN SWNG 5-Dec-19 @ 2:55PM Amt: NGN2,000.00 Av.Bal: NGN 90,542.00
+#496
+Type	: Incoming
+Date	: 2019-12-04 17:01:31
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To MUSLIM TAIWO WA-FIRSTBANK 4-Dec-19 @ 6:01PM Amt: NGN5,000.00 Av.Bal: NGN 92,594.50
+#497
+Type	: Incoming
+Date	: 2019-12-03 21:57:55
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To JAMIU AKANJI JA-STERLING 3-Dec-19 @ 10:57PM Amt: NGN10,000.00 Av.Bal: NGN 97,594.50
+#498
+Type	: Incoming
+Date	: 2019-12-03 18:45:10
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OLATUNDE SAHEED-UBA 3-Dec-19 @ 7:45PM Amt: NGN18,500.00 Av.Bal: NGN 107,720.50
+#499
+Type	: Incoming
+Date	: 2019-12-03 18:42:39
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: USSD/543083001942241099774884/Trans Fer Of 2000.00 From MOKANJUOLA OLUW ATOBILOBA To JAMIU AKANJI JABARUSSD Ref 543083001942241099774884/MOKAN 3-Dec-19 @ 7:42PM Amt: NGN2,000.00 Av.Bal: NGN 126,220.50
+#500
+Type	: Incoming
+Date	: 2019-12-03 17:05:56
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 3-Dec-19 @ 6:05PM Amt: NGN200.00 Av.Bal: NGN 128,220.50
+#501
+Type	: Incoming
+Date	: 2019-12-03 16:12:18
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ STERLING BANK TERMINAL - STERLING BOWEN IWO OSUN SWNG 3-Dec-19 @ 5:12PM Amt: NGN2,000.00 Av.Bal: NGN 128,420.50
+#502
+Type	: Incoming
+Date	: 2019-12-03 13:25:17
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 3-Dec-19 @ 2:25PM Amt: NGN500.00 Av.Bal: NGN 130,420.50
+#503
+Type	: Incoming
+Date	: 2019-12-03 07:13:19
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Stanbic@Iwotown Branch Iwo OSNG 3-Dec-19 @ 8:13AM Amt: NGN3,000.00 Av.Bal: NGN 130,920.50
+#504
+Type	: Incoming
+Date	: 2019-12-02 19:11:32
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 2-Dec-19 @ 8:11PM Amt: NGN200.00 Av.Bal: NGN 133,920.50
+#505
+Type	: Incoming
+Date	: 2019-12-02 11:48:41
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To TIMILEHIN ABDUL-UBA 2-Dec-19 @ 12:48PM Amt: NGN3,000.00 Av.Bal: NGN 134,173.00
+#506
+Type	: Incoming
+Date	: 2019-12-02 10:57:18
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 2-Dec-19 @ 11:57AM Amt: NGN1,700.00 Av.Bal: NGN 137,173.00
+#507
+Type	: Incoming
+Date	: 2019-12-02 08:16:33
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From ENIOLA.DL-Sterling Bank 2-Dec-19 @ 9:16AM Amt: NGN34,200.00 Av.Bal: NGN 138,873.00
+#508
+Type	: Incoming
+Date	: 2019-12-02 06:52:25
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To SULAIMON IDOWU -STANBICIBTC 2-Dec-19 @ 7:52AM Amt: NGN3,100.00 Av.Bal: NGN 104,725.50
+#509
+Type	: Incoming
+Date	: 2019-12-01 19:25:47
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 1-Dec-19 @ 8:25PM Amt: NGN200.00 Av.Bal: NGN 107,825.50
+#510
+Type	: Incoming
+Date	: 2019-12-01 18:52:28
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: USSD/437744061952081086990210/Trans Fer Of 3000.00 From MOKANJUOLA OLUW ATOBILOBA To IBRAHIM ADEGOKE RASHEE DUSSD Ref 437744061952081086990210/ 1-Dec-19 @ 7:52PM Amt: NGN3,000.00 Av.Bal: NGN 108,046.50
+#511
+Type	: Incoming
+Date	: 2019-11-30 16:01:59
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Kajola Area IWO OSNG 30-Nov-19 @ 5:02PM Amt: NGN2,000.00 Av.Bal: NGN 111,057.00
+#512
+Type	: Incoming
+Date	: 2019-11-30 15:51:00
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From ENIOLA.DL-Sterling Bank 30-Nov-19 @ 4:51PM Amt: NGN31,500.00 Av.Bal: NGN 113,125.25
+#513
+Type	: Incoming
+Date	: 2019-11-30 12:48:11
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To BABATUNDE AZIZA-STANBICIBTC 30-Nov-19 @ 1:48PM Amt: NGN4,000.00 Av.Bal: NGN 81,625.25
+#514
+Type	: Incoming
+Date	: 2019-11-30 09:41:07
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 30-Nov-19 @ 10:41AM Amt: NGN300.00 Av.Bal: NGN 85,677.75
+#515
+Type	: Incoming
+Date	: 2019-11-30 09:19:19
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Stanbic@IWO TOWN BRANCH IWO OSNG 30-Nov-19 @ 10:19AM Amt: NGN2,000.00 Av.Bal: NGN 85,977.75
+#516
+Type	: Incoming
+Date	: 2019-11-30 04:22:37
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 30-Nov-19 @ 5:22AM Amt: NGN350.00 Av.Bal: NGN 88,046.00
+#517
+Type	: Incoming
+Date	: 2019-11-29 23:09:48
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From OYEKOLA ABASS -STANBIC 30-Nov-19 @ 12:09AM Amt: NGN3,000.00 Av.Bal: NGN 88,396.00
+#518
+Type	: Incoming
+Date	: 2019-11-29 21:40:09
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OYEKOLA ABASS O-STANBICIBTC 29-Nov-19 @ 10:40PM Amt: NGN1,000.00 Av.Bal: NGN 85,398.50
+#519
+Type	: Incoming
+Date	: 2019-11-29 21:18:15
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OYEKOLA ABASS O-STANBICIBTC 29-Nov-19 @ 10:18PM Amt: NGN1,000.00 Av.Bal: NGN 86,501.00
+#520
+Type	: Incoming
+Date	: 2019-11-29 21:10:28
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OYEKOLA ABASS O-STANBICIBTC 2-Dec-19 @ 6:29PM Amt: NGN1,000.00 Av.Bal: NGN 87,553.50
+#521
+Type	: Incoming
+Date	: 2019-11-29 21:04:14
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To TADESE OLALEKAN-FIRSTBANK 2-Dec-19 @ 2:50PM Amt: NGN1,000.00 Av.Bal: NGN 88,606.00
+#522
+Type	: Incoming
+Date	: 2019-11-29 18:57:01
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To TIMILEHIN ABDUL-UBA 29-Nov-19 @ 7:57PM Amt: NGN6,000.00 Av.Bal: NGN 89,669.00
+#523
+Type	: Incoming
+Date	: 2019-11-29 18:44:41
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To TIMILEHIN ABDUL-UBA 29-Nov-19 @ 7:44PM Amt: NGN11,000.00 Av.Bal: NGN 95,671.50
+#524
+Type	: Incoming
+Date	: 2019-11-29 18:19:03
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OLAOYE TUNDE OL-UBA 29-Nov-19 @ 3:43PM Amt: NGN16,000.00 Av.Bal: NGN 106,774.00
+#525
+Type	: Incoming
+Date	: 2019-11-29 18:00:27
+Status	: NOT_RECEIVED
+Message	: Please send me credit
+#526
+Type	: Incoming
+Date	: 2019-11-29 10:10:30
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 29-Nov-19 @ 11:10AM Amt: NGN200.00 Av.Bal: NGN 127,774.00
+#527
+Type	: Incoming
+Date	: 2019-11-29 10:10:03
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ STERLING BANK TERMINAL - STERLING BOWEN IWO OSUN SWNG 29-Nov-19 @ 11:10AM Amt: NGN5,000.00 Av.Bal: NGN 122,774.00
+#528
+Type	: Incoming
+Date	: 2019-11-28 17:53:04
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Kajola Area IWO OSNG 28-Nov-19 @ 6:53PM Amt: NGN2,000.00 Av.Bal: NGN 127,974.00
+#529
+Type	: Incoming
+Date	: 2019-11-27 17:30:46
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - PAYCOM NIGERIA LTD LA LANG 27-Nov-19 @ 6:30PM Amt: NGN4,000.00 Av.Bal: NGN 130,042.25
+#530
+Type	: Incoming
+Date	: 2019-11-27 17:19:00
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 27-Nov-19 @ 6:18PM Amt: NGN200.00 Av.Bal: NGN 134,042.25
+#531
+Type	: Incoming
+Date	: 2019-11-27 07:30:46
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Stanbic@Iwotown 3Branch Iwo OSNG 27-Nov-19 @ 8:30AM Amt: NGN2,000.00 Av.Bal: NGN 134,252.75
+#532
+Type	: Incoming
+Date	: 2019-11-27 07:27:57
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From ENIOLA.DL-Sterling Bank 27-Nov-19 @ 8:27AM Amt: NGN95,000.00 Av.Bal: NGN 136,321.00
+#533
+Type	: Incoming
+Date	: 2019-11-26 22:04:25
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 26-Nov-19 @ 11:04PM Amt: NGN200.00 Av.Bal: NGN 41,321.00
+#534
+Type	: Incoming
+Date	: 2019-11-26 20:14:55
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: USSD/483735282114391059514204/Trans Fer Of 2500.00 From MOKANJUOLA OLUW ATOBILOBA To IBRAHIM ADEGOKE RASHEE DUSSD Ref 483735282114391059514204/ 26-Nov-19 @ 9:14PM Amt: NGN2,500.00 Av.Bal: NGN 41,542.00
+#535
+Type	: Incoming
+Date	: 2019-11-26 17:13:11
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - Opay_T355552839i135743rinterswitchd Elang 26-Nov-19 @ 6:13PM Amt: NGN1,000.00 Av.Bal: NGN 45,094.50
+#536
+Type	: Incoming
+Date	: 2019-11-26 16:50:01
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To TAJUDEEN MUIDEE-FIRSTBANK 26-Nov-19 @ 5:50PM Amt: NGN1,000.00 Av.Bal: NGN 44,094.50
+#537
+Type	: Incoming
+Date	: 2019-11-26 15:15:35
+Status	: NOT_RECEIVED
+Message	: *DO NOT DISCLOSE* A PENDING DEBIT of NGN 1,000.00 on YOUR ACCOUNT from Paystack. Use 254182 as your One Time Password. Expires 26-Nov-19 04:25
+#538
+Type	: Incoming
+Date	: 2019-11-26 15:14:50
+Status	: NOT_RECEIVED
+Message	: *DO NOT DISCLOSE* A PENDING DEBIT of NGN 1,000.00 on YOUR ACCOUNT from Paystack. Use 465068 as your One Time Password. Expires 26-Nov-19 04:24
+#539
+Type	: Incoming
+Date	: 2019-11-26 14:32:24
+Status	: NOT_RECEIVED
+Message	: We are experiencing some technical issues. YOUR MONEY IS SAFE. If you cannot reach us via Bet9ja.com, please visit www.bet9ja2.com or www.old-mobile.bet9ja2.com
+#540
+Type	: Incoming
+Date	: 2019-11-24 17:09:33
+Status	: NOT_RECEIVED
+Message	: Your Balances Are: Weekly Bundle: 637MB till 30-November; Monthly Bundle: 0MB till 17-December; Bonus Data: 0MB till 17-December;
+#541
+Type	: Incoming
+Date	: 2019-11-24 13:23:18
+Status	: NOT_RECEIVED
+Message	: Need extra credit? No wahala. Dial *500*0# to borrow & pay later with ZERO INTEREST. This offer is specially made for you
+#542
+Type	: Incoming
+Date	: 2019-11-24 02:05:19
+Status	: NOT_RECEIVED
+Message	: Your Balances Are: Weekly Bundle: 1024MB till 30-November; Monthly Bundle: 0MB till 17-December; Bonus Data: 0MB till 17-December;
+#543
+Type	: Incoming
+Date	: 2019-11-24 02:03:21
+Status	: NOT_RECEIVED
+Message	: Your Balances Are: Weekly Bundle: 0MB till 30-November; Monthly Bundle: 0MB till 17-December; Bonus Data: 0MB till 17-December;
+#544
+Type	: Incoming
+Date	: 2019-11-24 01:50:39
+Status	: NOT_RECEIVED
+Message	: You have used up your Data Bundle. To continue to enjoy uninterrupted internet, dial *141# or click http://onetouch.ng/Data, to buy a new Data bundle now.
+#545
+Type	: Incoming
+Date	: 2019-11-23 23:56:22
+Status	: NOT_RECEIVED
+Message	: You have only 50MB left. To continue to enjoy uninterrupted internet, dial *141# or click http://onetouch.ng/Data to buy a new Data bundle now.
+#546
+Type	: Incoming
+Date	: 2019-11-23 21:22:06
+Status	: NOT_RECEIVED
+Message	: You have only 100MB left. To continue to enjoy uninterrupted internet, dial *141# or click http://onetouch.ng/Data to buy a new Data bundle now.
+#547
+Type	: Incoming
+Date	: 2019-11-22 05:32:52
+Status	: NOT_RECEIVED
+Message	: Your Balances Are: Weekly Bundle: 1024MB till 30-November; Monthly Bundle: 0MB till 17-December; Bonus Data: 0MB till 17-December;
+#548
+Type	: Incoming
+Date	: 2019-11-22 05:28:19
+Status	: NOT_RECEIVED
+Message	: Txn Id R191122.0628.230043 to recharge 1000 NGN from 8086594258 is successful. New balance is 1000 NGN, validity till 17/08/22 & grace till 17/08/22.To see Airtime Bonus,pls call *223#.
+#549
+Type	: Incoming
+Date	: 2019-11-22 04:59:57
+Status	: NOT_RECEIVED
+Message	: Your Balances Are: Weekly Bundle: 0MB till 30-November; Monthly Bundle: 0MB till 17-December; Bonus Data: 0MB till 17-December; .You are on FREE SURF (160MB free, rate up to N2/MB)
+#550
+Type	: Incoming
+Date	: 2019-11-21 09:52:14
+Status	: NOT_RECEIVED
+Message	: You have only 50MB left. To continue to enjoy uninterrupted internet, dial *141# or click http://onetouch.ng/Data to buy a new Data bundle now.
+#551
+Type	: Incoming
+Date	: 2019-11-21 09:47:20
+Status	: NOT_RECEIVED
+Message	: You have only 100MB left. To continue to enjoy uninterrupted internet, dial *141# or click http://onetouch.ng/Data to buy a new Data bundle now.
+#552
+Type	: Incoming
+Date	: 2019-11-20 20:54:26
+Status	: NOT_RECEIVED
+Message	: Your Balances Are: Weekly Bundle: 0MB till 30-November; Monthly Bundle: 259MB till 17-December; Bonus Data: 153MB till 17-December; .You are on FREE SURF (160MB free, rate up to N2/MB)
+#553
+Type	: Incoming
+Date	: 2019-11-20 05:52:05
+Status	: NOT_RECEIVED
+Message	: Your Balances Are: Weekly Bundle: 0MB till 30-November; Monthly Bundle: 456MB till 17-December; Bonus Data: 153MB till 17-December; .You are on FREE SURF (160MB free, rate up to N2/MB)
+#554
+Type	: Incoming
+Date	: 2019-11-19 05:36:34
+Status	: NOT_RECEIVED
+Message	: Your Balances Are: Weekly Bundle: 0MB till 30-November; Monthly Bundle: 613MB till 17-December; Bonus Data: 153MB till 17-December; .You are on FREE SURF (160MB free, rate up to N2/MB)
+#555
+Type	: Incoming
+Date	: 2019-11-18 23:09:12
+Status	: NOT_RECEIVED
+Message	: Your Balances Are: Weekly Bundle: 0MB till 30-November; Monthly Bundle: 1237MB till 17-December; Bonus Data: 153MB till 17-December; .You are on FREE SURF (160MB free, rate up to N2/MB)
+#556
+Type	: Incoming
+Date	: 2019-11-18 19:16:01
+Status	: NOT_RECEIVED
+Message	: Your Balances Are: Weekly Bundle: 0MB till 30-November; Monthly Bundle: 1536MB till 17-December; Bonus Data: 153MB till 17-December; .You are on FREE SURF (160MB free, rate up to N2/MB)
+#557
+Type	: Incoming
+Date	: 2019-11-18 19:15:30
+Status	: NOT_RECEIVED
+Message	: Your Balances Are: Weekly Bundle: 0MB till 30-November; Monthly Bundle: 1536MB till 17-December; Bonus Data: 153MB till 17-December; .You are on FREE SURF (160MB free, rate up to N2/MB)
+#558
+Type	: Incoming
+Date	: 2019-11-18 19:15:12
+Status	: NOT_RECEIVED
+Message	: Txn Id R191118.2015.240046 to recharge 999 NGN from 8086146934 is successful. New balance is 0 NGN, validity till 0 & grace till 0.To see Airtime Bonus,pls call *223#.
+#559
+Type	: Incoming
+Date	: 2019-11-18 17:48:17
+Status	: NOT_RECEIVED
+Message	: Your Balances Are: Weekly Bundle: 0MB till 30-November; .You are on FREE SURF (160MB free, rate up to N2/MB)
+#560
+Type	: Incoming
+Date	: 2019-11-18 17:39:30
+Status	: NOT_RECEIVED
+Message	: You have used up your Data Bundle. To continue to enjoy uninterrupted internet, dial *141# or click http://onetouch.ng/Data, to buy a new Data bundle now.
+#561
+Type	: Incoming
+Date	: 2019-11-18 17:19:44
+Status	: NOT_RECEIVED
+Message	: You have only 50MB left. To continue to enjoy uninterrupted internet, dial *141# or click http://onetouch.ng/Data to buy a new Data bundle now.
+#562
+Type	: Incoming
+Date	: 2019-11-18 10:34:49
+Status	: NOT_RECEIVED
+Message	: You have only 100MB left. To continue to enjoy uninterrupted internet, dial *141# or click http://onetouch.ng/Data to buy a new Data bundle now.
+#563
+Type	: Incoming
+Date	: 2019-11-17 04:52:11
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - OPAY/FLW190303958 Interswitchd Elang 17-Nov-19 @ 5:52AM Amt: NGN300.00 Av.Bal: NGN 110,507.00
+#564
+Type	: Incoming
+Date	: 2019-11-17 04:51:24
+Status	: NOT_RECEIVED
+Message	: *DO NOT DISCLOSE* A PENDING DEBIT of NGN 300.00 on YOUR ACCOUNT from FlwPaymentVerification. Use 880054 as your One Time Password. Expires 17-Nov-19 06:01
+#565
+Type	: Incoming
+Date	: 2019-11-16 20:16:16
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - OPAY/FLW190253512 Interswitchd Elang 16-Nov-19 @ 9:16PM Amt: NGN400.00 Av.Bal: NGN 110,807.00
+#566
+Type	: Incoming
+Date	: 2019-11-16 20:15:08
+Status	: NOT_RECEIVED
+Message	: *DO NOT DISCLOSE* A PENDING DEBIT of NGN 400.00 on YOUR ACCOUNT from FlwPaymentVerification. Use 263372 as your One Time Password. Expires 16-Nov-19 09:25
+#567
+Type	: Incoming
+Date	: 2019-11-16 20:13:47
+Status	: NOT_RECEIVED
+Message	: *DO NOT DISCLOSE* A PENDING DEBIT of NGN 400.00 on YOUR ACCOUNT from Paystack. Use 403951 as your One Time Password. Expires 16-Nov-19 09:23
+#568
+Type	: Incoming
+Date	: 2019-11-16 16:42:43
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From ENIOLA.DL-Sterling Bank 16-Nov-19 @ 5:42PM Amt: NGN65,000.00 Av.Bal: NGN 111,207.00
+#569
+Type	: Incoming
+Date	: 2019-11-16 14:28:30
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - KAMZEEKEL NIG. LTD LA LANG 16-Nov-19 @ 3:28PM Amt: NGN2,650.00 Av.Bal: NGN 46,207.00
+#570
+Type	: Incoming
+Date	: 2019-11-15 01:40:42
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: USSD/060333560240201006281372/Trans Fer Of 3000.00 From MOKANJUOLA OLUW ATOBILOBA To TUNDE OLASHINA ISIAKAU SSD Ref 060333560240201006281372/MO 15-Nov-19 @ 8:44PM Amt: NGN3,000.00 Av.Bal: NGN 48,878.00
+#571
+Type	: Incoming
+Date	: 2019-11-14 23:55:27
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: USSD/727173320055141006249487/Trans Fer Of 17000.00 From MOKANJUOLA OLU WATOBILOBA To TUNDE OLASHINA ISIAKA USSD Ref 727173320055141006249487/M 15-Nov-19 @ 12:55AM Amt: NGN17,000.00 Av.Bal: NGN 51,899.00
+#572
+Type	: Incoming
+Date	: 2019-11-14 14:07:50
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ STERLING BANK TERMINAL - STERLING BOWEN IWO OSUN SWNG 14-Nov-19 @ 2:57PM Amt: NGN5,000.00 Av.Bal: NGN 70,451.50
+#573
+Type	: Incoming
+Date	: 2019-11-14 11:27:03
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To EZEDINIRU OBIOR-FIRSTBANK 14-Nov-19 @ 8:02AM Amt: NGN4,500.00 Av.Bal: NGN 75,454.00
+#574
+Type	: Incoming
+Date	: 2019-11-14 08:54:59
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: ROE BANK BILLS/REF:BPD2019110917131 547717838 81552212500/Onepay/MOKANJ UOLA.O/Bil L Payment Ref 1105471911 09171315880 142019112329969 14-Nov-19 @ 9:54AM Amt: NGN605.00 Av.Bal: NGN 80,004.00
+#575
+Type	: Outgoing
+Date	: 2019-11-13 19:23:09
+Status	: NOT_RECEIVED
+Message	: Can't talk now.
+#576
+Type	: Incoming
+Date	: 2019-11-13 17:03:17
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - PAYCOM NIGERIA LTD LA LANG 13-Nov-19 @ 6:03PM Amt: NGN5,100.00 Av.Bal: NGN 79,399.00
+#577
+Type	: Incoming
+Date	: 2019-11-13 12:33:24
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Stanbic@Iwotown 4Branch Iwo OSNG 13-Nov-19 @ 1:33PM Amt: NGN3,000.00 Av.Bal: NGN 84,499.00
+#578
+Type	: Incoming
+Date	: 2019-11-12 23:34:10
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - Opay_T336358365i135743rinterswitchd Elang 13-Nov-19 @ 4:50PM Amt: NGN3,000.00 Av.Bal: NGN 87,567.25
+#579
+Type	: Incoming
+Date	: 2019-11-12 23:32:57
+Status	: NOT_RECEIVED
+Message	: *DO NOT DISCLOSE* A PENDING DEBIT of NGN 3,000.00 on YOUR ACCOUNT from Paystack. Use 498722 as your One Time Password. Expires 13-Nov-19 12:42
+#580
+Type	: Incoming
+Date	: 2019-11-12 20:07:45
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 12-Nov-19 @ 9:07PM Amt: NGN200.00 Av.Bal: NGN 90,567.25
+#581
+Type	: Incoming
+Date	: 2019-11-12 09:06:31
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: MTN Top-Up For This 08109905566 12-Nov-19 @ 10:06AM Amt: NGN200.00 Av.Bal: NGN 90,767.25
+#582
+Type	: Incoming
+Date	: 2019-11-12 08:51:25
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Stanbic@Iwotown Branch Iwo OSNG 12-Nov-19 @ 9:51AM Amt: NGN5,000.00 Av.Bal: NGN 90,967.25
+#583
+Type	: Incoming
+Date	: 2019-11-11 22:02:46
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From TUNDE.OI-Sterling Bank 11-Nov-19 @ 11:02PM Amt: NGN19,000.00 Av.Bal: NGN 96,046.00
+#584
+Type	: Incoming
+Date	: 2019-11-11 21:08:58
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: USSD/31571732220834990802409/Transf Er Of 19000.00 From MOKANJUOLA OLUW ATOBILOBA To TUNDE OLASHINA ISIAKAU SSD Ref 31571732220834990802409/MOK 11-Nov-19 @ 10:08PM Amt: NGN19,000.00 Av.Bal: NGN 77,077.50
+#585
+Type	: Incoming
+Date	: 2019-11-11 21:03:08
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: USSD/53663531220254990781913/Transf Er Of 19000.00 From MOKANJUOLA OLUW ATOBILOBA To TUNDE OLASHINA ISIAKAU SSD Ref 53663531220254990781913/MOK 11-Nov-19 @ 10:03PM Amt: NGN19,000.00 Av.Bal: NGN 96,098.50
+#586
+Type	: Incoming
+Date	: 2019-11-11 16:36:39
+Status	: NOT_RECEIVED
+Message	: Hi. I am currently driving. I'll get back to you soon.
+#587
+Type	: Incoming
+Date	: 2019-11-11 08:33:13
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Stanbic@Iwotown 3Branch Iwo OSNG 11-Nov-19 @ 9:33AM Amt: NGN4,000.00 Av.Bal: NGN 115,119.50
+#588
+Type	: Outgoing
+Date	: 2019-11-10 15:12:39
+Status	: NOT_RECEIVED
+Message	: 1. Name:Adesina segun Mother's name: Toyin Date of birth:8,3,1997(Saturday) 2. Name: Makanjuola Tobiloba Mother's name: ayodele Date of birth: Monday 2nd of October
+#589
+Type	: Incoming
+Date	: 2019-11-10 11:16:28
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 10-Nov-19 @ 12:16PM Amt: NGN200.00 Av.Bal: NGN 119,187.75
+#590
+Type	: Incoming
+Date	: 2019-11-10 07:28:31
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Stanbic@Iwotown 3Branch Iwo OSNG 12-Nov-19 @ 7:47AM Amt: NGN2,000.00 Av.Bal: NGN 119,387.75
+#591
+Type	: Incoming
+Date	: 2019-11-09 23:38:13
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To AYINDE.YS-Sterling Bank 10-Nov-19 @ 12:38AM Amt: NGN3,000.00 Av.Bal: NGN 121,456.00
+#592
+Type	: Incoming
+Date	: 2019-11-09 16:15:00
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Bill Payment 9-Nov-19 @ 5:15PM Amt: NGN605.00 Av.Bal: NGN 124,456.00
+#593
+Type	: Incoming
+Date	: 2019-11-09 16:13:31
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Bill Payment 9-Nov-19 @ 5:13PM Amt: NGN605.00 Av.Bal: NGN 125,061.00
+#594
+Type	: Incoming
+Date	: 2019-11-09 12:36:57
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Stanbic@Iwotown Branch Iwo OSNG 9-Nov-19 @ 1:37PM Amt: NGN5,000.00 Av.Bal: NGN 125,666.00
+#595
+Type	: Incoming
+Date	: 2019-11-08 19:35:47
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To TUNDE.OI-Sterling Bank 8-Nov-19 @ 5:48PM Amt: NGN2,000.00 Av.Bal: NGN 130,734.25
+#596
+Type	: Incoming
+Date	: 2019-11-08 18:44:10
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 8-Nov-19 @ 7:44PM Amt: NGN1,000.00 Av.Bal: NGN 132,734.25
+#597
+Type	: Incoming
+Date	: 2019-11-08 07:51:43
+Status	: NOT_RECEIVED
+Message	: Please call me back. I love you
+#598
+Type	: Incoming
+Date	: 2019-11-08 06:49:03
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 8-Nov-19 @ 7:49AM Amt: NGN300.00 Av.Bal: NGN 147,434.25
+#599
+Type	: Incoming
+Date	: 2019-11-07 13:46:12
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To QUDUS.OA-Sterling Bank 7-Nov-19 @ 2:46PM Amt: NGN33,000.00 Av.Bal: NGN 147,734.25
+#600
+Type	: Incoming
+Date	: 2019-11-07 13:17:58
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Kajola Area IWO OSNG 7-Nov-19 @ 2:18PM Amt: NGN3,000.00 Av.Bal: NGN 180,734.25
+#601
+Type	: Incoming
+Date	: 2019-11-07 07:39:09
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From ENIOLA.DL-Sterling Bank 7-Nov-19 @ 11:45PM Amt: NGN86,400.00 Av.Bal: NGN 183,802.50
+#602
+Type	: Incoming
+Date	: 2019-11-07 07:33:01
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To TUNDE.OI-Sterling Bank 7-Nov-19 @ 8:33AM Amt: NGN3,000.00 Av.Bal: NGN 97,402.50
+#603
+Type	: Incoming
+Date	: 2019-11-07 07:26:43
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To KOLAWOLE TOSIN -FIRSTBANK 7-Nov-19 @ 4:00PM Amt: NGN2,200.00 Av.Bal: NGN 100,455.00
+#604
+Type	: Incoming
+Date	: 2019-11-07 07:07:21
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 7-Nov-19 @ 4:31AM Amt: NGN200.00 Av.Bal: NGN 102,655.00
+#605
+Type	: Incoming
+Date	: 2019-11-06 18:41:29
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF To KOLAWOLE TOSIN -FIRSTBANK 6-Nov-19 @ 7:41PM Amt: NGN2,200.00 Av.Bal: NGN 102,802.50
+#606
+Type	: Incoming
+Date	: 2019-11-06 18:38:53
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To KOLAWOLE TOSIN -FIRSTBANK 6-Nov-19 @ 7:38PM Amt: NGN2,200.00 Av.Bal: NGN 100,605.00
+#607
+Type	: Incoming
+Date	: 2019-11-06 10:52:29
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To MOKANJUOLA ESTH-GTBANK 6-Nov-19 @ 11:52AM Amt: NGN2,200.00 Av.Bal: NGN 102,857.50
+#608
+Type	: Incoming
+Date	: 2019-11-06 09:22:08
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Stanbic@Iwotown 3Branch Iwo OSNG 6-Nov-19 @ 9:24PM Amt: NGN3,000.00 Av.Bal: NGN 105,107.50
+#609
+Type	: Incoming
+Date	: 2019-11-06 06:35:42
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To QUDUS.OA-Sterling Bank 6-Nov-19 @ 7:34AM Amt: NGN28,000.00 Av.Bal: NGN 108,175.75
+#610
+Type	: Incoming
+Date	: 2019-11-05 19:03:17
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OYEBAMIJI KAZEE-FIRSTBANK 5-Nov-19 @ 8:03PM Amt: NGN5,100.00 Av.Bal: NGN 136,228.25
+#611
+Type	: Incoming
+Date	: 2019-11-05 18:29:25
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 5-Nov-19 @ 7:29PM Amt: NGN200.00 Av.Bal: NGN 141,328.25
+#612
+Type	: Incoming
+Date	: 2019-11-05 17:56:54
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Bill Payment 5-Nov-19 @ 6:56PM Amt: NGN1,305.00 Av.Bal: NGN 141,528.25
+#613
+Type	: Incoming
+Date	: 2019-11-05 15:45:52
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To ALEX.CN-Sterling Bank 5-Nov-19 @ 4:45PM Amt: NGN2,000.00 Av.Bal: NGN 142,833.25
+#614
+Type	: Incoming
+Date	: 2019-11-05 11:29:35
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Stanbic@Iwotown 4Branch Iwo OSNG 5-Nov-19 @ 12:29PM Amt: NGN1,000.00 Av.Bal: NGN 144,833.25
+#615
+Type	: Incoming
+Date	: 2019-11-05 11:28:53
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Stanbic@Iwotown 4Branch Iwo OSNG 5-Nov-19 @ 12:28PM Amt: NGN6,000.00 Av.Bal: NGN 145,833.25
+#616
+Type	: Incoming
+Date	: 2019-11-05 07:53:13
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 5-Nov-19 @ 8:52AM Amt: NGN200.00 Av.Bal: NGN 151,833.25
+#617
+Type	: Incoming
+Date	: 2019-11-04 18:28:43
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - PAYCOM NIGERIA LTD ( LA LANG 4-Nov-19 @ 8:28PM Amt: NGN3,000.00 Av.Bal: NGN 152,033.25
+#618
+Type	: Incoming
+Date	: 2019-11-04 14:06:16
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To TUNDE.OI-Sterling Bank 4-Nov-19 @ 3:05PM Amt: NGN2,500.00 Av.Bal: NGN 155,033.25
+#619
+Type	: Incoming
+Date	: 2019-11-04 11:35:25
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To AZEEZ.I-Sterling Bank 4-Nov-19 @ 12:35PM Amt: NGN2,000.00 Av.Bal: NGN 157,533.25
+#620
+Type	: Incoming
+Date	: 2019-11-03 17:47:32
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OYEBAMIJI KAZEE-FIRSTBANK 3-Nov-19 @ 6:47PM Amt: NGN2,000.00 Av.Bal: NGN 159,585.75
+#621
+Type	: Incoming
+Date	: 2019-11-03 17:01:58
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To AZEEZ.I-Sterling Bank 4-Nov-19 @ 5:14AM Amt: NGN3,000.00 Av.Bal: NGN 161,585.75
+#622
+Type	: Incoming
+Date	: 2019-11-03 16:54:10
+Status	: NOT_RECEIVED
+Message	: 0069911436 Starling bnk Azeez Ibrahim
+#623
+Type	: Incoming
+Date	: 2019-11-03 15:48:45
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Stanbic@Iwotown 3Branch Iwo OSNG 3-Nov-19 @ 4:42PM Amt: NGN2,000.00 Av.Bal: NGN 164,585.75
+#624
+Type	: Incoming
+Date	: 2019-11-03 12:52:39
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OGUNDELE OLUWAD-UBA 3-Nov-19 @ 1:47PM Amt: NGN2,000.00 Av.Bal: NGN 166,588.25
+#625
+Type	: Incoming
+Date	: 2019-11-03 12:42:38
+Status	: NOT_RECEIVED
+Message	: <#> Do not share this code with anyone. Your Onepay OTP is 456266, valid for 5 minutes. Call 070078375464 if you did not initiate this request. jwaFdn4sQYd
+#626
+Type	: Incoming
+Date	: 2019-11-03 12:42:35
+Status	: NOT_RECEIVED
+Message	: <#> Do not share this code with anyone. Your Onepay OTP is 233320, valid for 5 minutes. Call 070078375464 if you did not initiate this request. jwaFdn4sQYd
+#627
+Type	: Incoming
+Date	: 2019-11-03 12:42:33
+Status	: NOT_RECEIVED
+Message	: <#> Do not share this code with anyone. Your Onepay OTP is 446786, valid for 5 minutes. Call 070078375464 if you did not initiate this request. jwaFdn4sQYd
+#628
+Type	: Incoming
+Date	: 2019-11-02 19:44:28
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ STERLING BANK TERMINAL - STERLING BOWEN IWO OSUN SWNG 2-Nov-19 @ 8:44PM Amt: NGN3,000.00 Av.Bal: NGN 168,638.25
+#629
+Type	: Incoming
+Date	: 2019-11-02 13:32:13
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To IGE OLUWATOYIN -GTBANK 4-Nov-19 @ 3:27PM Amt: NGN1,000.00 Av.Bal: NGN 174,943.25
+#630
+Type	: Incoming
+Date	: 2019-11-02 10:53:16
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To IBRAHIM.AR-Sterling Bank 2-Nov-19 @ 11:01AM Amt: NGN15,000.00 Av.Bal: NGN 175,943.25
+#631
+Type	: Incoming
+Date	: 2019-11-02 08:22:49
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From ENIOLA.DL-Sterling Bank 2-Nov-19 @ 9:22AM Amt: NGN25,500.00 Av.Bal: NGN 190,943.25
+#632
+Type	: Incoming
+Date	: 2019-11-02 05:56:02
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To TUNDE.OI-Sterling Bank 2-Nov-19 @ 6:56AM Amt: NGN22,000.00 Av.Bal: NGN 165,443.25
+#633
+Type	: Incoming
+Date	: 2019-11-01 18:54:18
+Status	: NOT_RECEIVED
+Message	: 0455429198 Ige oluwatoyin grace gtbank pls send d money pls
+#634
+Type	: Incoming
+Date	: 2019-11-01 18:44:27
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - OSUN GREENWICH HOTEL OS OSNG 1-Nov-19 @ 7:44PM Amt: NGN1,000.00 Av.Bal: NGN 187,443.25
+#635
+Type	: Incoming
+Date	: 2019-11-01 16:16:47
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OGINNI RUTH IYA-FIRSTBANK 1-Nov-19 @ 5:16PM Amt: NGN1,000.00 Av.Bal: NGN 188,445.75
+#636
+Type	: Incoming
+Date	: 2019-11-01 15:21:59
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - PAYCOM NIGERIA LTD ( LA LANG 1-Nov-19 @ 5:15PM Amt: NGN2,100.00 Av.Bal: NGN 189,495.75
+#637
+Type	: Incoming
+Date	: 2019-11-01 08:19:32
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To GBENGA ADEKUNLE-WEMA 1-Nov-19 @ 9:19AM Amt: NGN5,000.00 Av.Bal: NGN 191,598.25
+#638
+Type	: Incoming
+Date	: 2019-10-31 20:20:35
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To ROQEEB.AB-Sterling Bank 31-Oct-19 @ 9:20PM Amt: NGN1,500.00 Av.Bal: NGN 196,648.25
+#639
+Type	: Incoming
+Date	: 2019-10-31 19:15:51
+Status	: NOT_RECEIVED
+Message	: Please call me back. I love you
+#640
+Type	: Incoming
+Date	: 2019-10-31 17:53:33
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To ADESHINA PETER -SKYE 31-Oct-19 @ 6:53PM Amt: NGN2,000.00 Av.Bal: NGN 198,200.75
+#641
+Type	: Incoming
+Date	: 2019-10-31 08:45:45
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To TUNDE.OI-Sterling Bank 31-Oct-19 @ 3:47PM Amt: NGN2,700.00 Av.Bal: NGN 200,300.75
+#642
+Type	: Incoming
+Date	: 2019-10-31 07:51:45
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 31-Oct-19 @ 8:51AM Amt: NGN193.00 Av.Bal: NGN 203,000.75
+#643
+Type	: Incoming
+Date	: 2019-10-31 06:32:20
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From ENIOLA.DL-Sterling Bank 31-Oct-19 @ 7:32AM Amt: NGN30,600.00 Av.Bal: NGN 203,193.75
+#644
+Type	: Incoming
+Date	: 2019-10-30 19:09:28
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Bill Payment 30-Oct-19 @ 8:09PM Amt: NGN455.00 Av.Bal: NGN 172,593.75
+#645
+Type	: Incoming
+Date	: 2019-10-30 18:49:29
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To BULIYAMINU MUSA-FIRSTBANK 30-Oct-19 @ 7:49PM Amt: NGN5,000.00 Av.Bal: NGN 173,101.25
+#646
+Type	: Incoming
+Date	: 2019-10-30 17:52:52
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: OTHER BANK TERMINAL - Tran/889588440840/0073641574/MOKANJ /LANG 30-Oct-19 @ 6:52PM Amt: NGN20,600.00 Av.Bal: NGN 178,101.25
+#647
+Type	: Incoming
+Date	: 2019-10-30 13:10:09
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 30-Oct-19 @ 10:13AM Amt: NGN1,100.00 Av.Bal: NGN 157,501.25
+#648
+Type	: Incoming
+Date	: 2019-10-30 12:14:57
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To ABOLUDE ALEED B-FIRSTBANK 30-Oct-19 @ 1:15PM Amt: NGN22,100.00 Av.Bal: NGN 158,653.75
+#649
+Type	: Incoming
+Date	: 2019-10-30 10:56:25
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - E-SETTLEMENT LIMITED ACLA LANG 30-Oct-19 @ 11:56AM Amt: NGN7,000.00 Av.Bal: NGN 180,753.75
+#650
+Type	: Incoming
+Date	: 2019-10-29 20:14:09
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ STERLING BANK TERMINAL - STERLING BOWEN IWO OSUN SWNG 30-Oct-19 @ 12:47AM Amt: NGN5,000.00 Av.Bal: NGN 187,753.75
+#651
+Type	: Incoming
+Date	: 2019-10-29 20:03:26
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To TUNDE.OI-Sterling Bank 29-Oct-19 @ 9:03PM Amt: NGN18,000.00 Av.Bal: NGN 192,753.75
+#652
+Type	: Incoming
+Date	: 2019-10-29 16:14:36
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ Other Bank Terminal 29-Oct-19 @ 5:14PM Amt: NGN900.00 Av.Bal: NGN 210,753.75
+#653
+Type	: Incoming
+Date	: 2019-10-29 09:59:09
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 29-Oct-19 @ 10:59AM Amt: NGN1,050.00 Av.Bal: NGN 211,753.75
+#654
+Type	: Incoming
+Date	: 2019-10-29 08:53:05
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ Other Bank Terminal 29-Oct-19 @ 9:53AM Amt: NGN3,500.00 Av.Bal: NGN 212,803.75
+#655
+Type	: Incoming
+Date	: 2019-10-29 08:45:20
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From BASITH ADETAYO-STANBIC 29-Oct-19 @ 9:45AM Amt: NGN8,250.00 Av.Bal: NGN 216,403.75
+#656
+Type	: Incoming
+Date	: 2019-10-28 15:37:37
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - PAYCOM NIGERIA LTD ( LA LANG 28-Oct-19 @ 4:37PM Amt: NGN2,100.00 Av.Bal: NGN 208,153.75
+#657
+Type	: Incoming
+Date	: 2019-10-28 11:39:52
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - Opay_T315142428i135743rinterswitchd Elang 28-Oct-19 @ 12:39PM Amt: NGN500.00 Av.Bal: NGN 210,253.75
+#658
+Type	: Incoming
+Date	: 2019-10-28 11:13:54
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP From 10000419102811095410000495 5941 Paycom PAYREF:1000041910281109 54100004955941 SENDER: Rauf Lanre S Alinsile REMARK: Transfer From 28-Oct-19 @ 12:32PM Amt: NGN30,000.00 Av.Bal: NGN 210,753.75
+#659
+Type	: Incoming
+Date	: 2019-10-28 08:57:45
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From ENIOLA.DL-Sterling Bank 28-Oct-19 @ 9:57AM Amt: NGN31,400.00 Av.Bal: NGN 180,753.75
+#660
+Type	: Incoming
+Date	: 2019-10-28 08:02:55
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ STERLING BANK TERMINAL - STERLING BOWEN IWO OSUN SWNG 28-Oct-19 @ 8:36AM Amt: NGN3,000.00 Av.Bal: NGN 149,353.75
+#661
+Type	: Incoming
+Date	: 2019-10-28 08:02:53
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Cash Deposit By STERLING BANK 28-Oct-19 @ 8:35AM Amt: NGN3,000.00 Av.Bal: NGN 152,353.75
+#662
+Type	: Incoming
+Date	: 2019-10-28 08:02:50
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ STERLING BANK TERMINAL - STERLING BOWEN IWO OSUN SWNG 28-Oct-19 @ 8:35AM Amt: NGN3,000.00 Av.Bal: NGN 149,353.75
+#663
+Type	: Incoming
+Date	: 2019-10-27 22:09:46
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To SEGUN DOLAPO AD-STANBICIBTC 27-Oct-19 @ 11:09PM Amt: NGN200.00 Av.Bal: NGN 152,353.75
+#664
+Type	: Incoming
+Date	: 2019-10-27 22:08:14
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 27-Oct-19 @ 11:08PM Amt: NGN200.00 Av.Bal: NGN 152,353.75
+#665
+Type	: Incoming
+Date	: 2019-10-27 11:58:30
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To IBRAHIM.AR-Sterling Bank 27-Oct-19 @ 12:58PM Amt: NGN1,000.00 Av.Bal: NGN 155,411.25
+#666
+Type	: Incoming
+Date	: 2019-10-27 11:50:29
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To IBRAHIM.AR-Sterling Bank 27-Oct-19 @ 12:50PM Amt: NGN5,000.00 Av.Bal: NGN 156,411.25
+#667
+Type	: Incoming
+Date	: 2019-10-27 10:39:32
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To MUSIBAU ABIONA-FIRSTBANK 27-Oct-19 @ 11:39AM Amt: NGN5,000.00 Av.Bal: NGN 161,411.25
+#668
+Type	: Incoming
+Date	: 2019-10-27 07:14:24
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To MUSA AKOREDE YI-SKYE 27-Oct-19 @ 8:14AM Amt: NGN3,000.00 Av.Bal: NGN 166,516.25
+#669
+Type	: Incoming
+Date	: 2019-10-26 18:35:28
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To SAHEED ALABI AS-WEMA 28-Oct-19 @ 4:07AM Amt: NGN1,000.00 Av.Bal: NGN 169,668.75
+#670
+Type	: Incoming
+Date	: 2019-10-26 14:39:51
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 28-Oct-19 @ 10:24PM Amt: NGN200.00 Av.Bal: NGN 170,668.75
+#671
+Type	: Incoming
+Date	: 2019-10-26 13:58:21
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: OTHER BANK TERMINAL - Tran/889587993671/0073641574/MOKANJ /LANG 26-Oct-19 @ 1:58PM Amt: NGN27,800.00 Av.Bal: NGN 170,668.75
+#672
+Type	: Incoming
+Date	: 2019-10-26 13:42:17
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ STERLING BANK TERMINAL - STERLING BOWEN IWO OSUN SWNG 26-Oct-19 @ 1:42PM Amt: NGN3,000.00 Av.Bal: NGN 170,668.75
+#673
+Type	: Incoming
+Date	: 2019-10-26 10:20:06
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 28-Oct-19 @ 4:06PM Amt: NGN200.00 Av.Bal: NGN 146,068.75
+#674
+Type	: Incoming
+Date	: 2019-10-26 03:56:45
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To SEGUN DOLAPO AD-STANBICIBTC 26-Oct-19 @ 3:56AM Amt: NGN3,200.00 Av.Bal: NGN 146,271.25
+#675
+Type	: Incoming
+Date	: 2019-10-25 22:45:49
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From BASITH ADETAYO-STANBIC 25-Oct-19 @ 10:45PM Amt: NGN11,500.00 Av.Bal: NGN 149,521.25
+#676
+Type	: Incoming
+Date	: 2019-10-25 15:57:59
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ STERLING BANK TERMINAL - STERLING BOWEN IWO OSUN SWNG 25-Oct-19 @ 3:57PM Amt: NGN6,000.00 Av.Bal: NGN 138,021.25
+#677
+Type	: Incoming
+Date	: 2019-10-25 11:15:58
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ STERLING BANK TERMINAL - STERLING BOWEN IWO OSUN SWNG 25-Oct-19 @ 11:15AM Amt: NGN2,000.00 Av.Bal: NGN 144,021.25
+#678
+Type	: Incoming
+Date	: 2019-10-24 19:40:11
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To AGBAJE TAIWO AB-FIRSTBANK 24-Oct-19 @ 7:40PM Amt: NGN2,000.00 Av.Bal: NGN 146,023.75
+#679
+Type	: Incoming
+Date	: 2019-10-24 16:04:58
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 24-Oct-19 @ 4:05PM Amt: NGN200.00 Av.Bal: NGN 152,073.75
+#680
+Type	: Incoming
+Date	: 2019-10-24 13:38:05
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ STERLING BANK TERMINAL - STERLING BOWEN IWO OSUN SWNG 24-Oct-19 @ 1:38PM Amt: NGN12,000.00 Av.Bal: NGN 152,273.75
+#681
+Type	: Incoming
+Date	: 2019-10-24 11:41:37
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To ODEWALE AJIBIKE-FIRSTBANK 24-Oct-19 @ 11:41AM Amt: NGN2,000.00 Av.Bal: NGN 164,276.25
+#682
+Type	: Incoming
+Date	: 2019-10-23 22:45:03
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To IBRAHIM.AR-Sterling Bank 23-Oct-19 @ 1:42PM Amt: NGN5,000.00 Av.Bal: NGN 173,526.25
+#683
+Type	: Incoming
+Date	: 2019-10-23 22:45:01
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To TUNDE.OI-Sterling Bank 23-Oct-19 @ 1:14PM Amt: NGN10,000.00 Av.Bal: NGN 178,526.25
+#684
+Type	: Incoming
+Date	: 2019-10-23 22:45:00
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From ENIOLA.DL-Sterling Bank 22-Oct-19 @ 8:38PM Amt: NGN49,500.00 Av.Bal: NGN 188,526.25
+#685
+Type	: Incoming
+Date	: 2019-10-23 22:45:00
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 22-Oct-19 @ 1:28PM Amt: NGN200.00 Av.Bal: NGN 139,026.25
+#686
+Type	: Incoming
+Date	: 2019-10-23 22:44:59
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ STERLING BANK TERMINAL - STERLING BOWEN IWO OSUN SWNG 22-Oct-19 @ 12:45PM Amt: NGN2,000.00 Av.Bal: NGN 139,226.25
+#687
+Type	: Incoming
+Date	: 2019-10-23 22:44:57
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From OLA TUNDE SAHE- 22-Oct-19 @ 12:37PM Amt: NGN2,000.00 Av.Bal: NGN 141,226.25
+#688
+Type	: Incoming
+Date	: 2019-10-23 22:44:53
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To IBRAHIM.AR-Sterling Bank 23-Oct-19 @ 9:37PM Amt: NGN2,000.00 Av.Bal: NGN 171,526.25
+#689
+Type	: Incoming
+Date	: 2019-10-23 22:44:52
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To TUNDE.OI-Sterling Bank 23-Oct-19 @ 9:27PM Amt: NGN5,000.00 Av.Bal: NGN 166,526.25
+#690
+Type	: Incoming
+Date	: 2019-10-23 22:44:51
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 22-Oct-19 @ 12:15PM Amt: NGN500.00 Av.Bal: NGN 139,226.25
+#691
+Type	: Incoming
+Date	: 2019-10-23 22:44:50
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ STERLING BANK TERMINAL - STERLING BOWEN IWO OSUN SWNG 22-Oct-19 @ 10:52AM Amt: NGN5,000.00 Av.Bal: NGN 139,726.25
+#692
+Type	: Incoming
+Date	: 2019-10-23 22:44:48
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To TUNDE.OI-Sterling Bank 22-Oct-19 @ 8:44PM Amt: NGN18,000.00 Av.Bal: NGN 144,726.25
+#693
+Type	: Incoming
+Date	: 2019-10-23 22:44:47
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From BASITH ADETAYO-STANBIC 22-Oct-19 @ 4:19AM Amt: NGN51,000.00 Av.Bal: NGN 162,726.25
+#694
+Type	: Incoming
+Date	: 2019-10-23 22:44:45
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 23-Oct-19 @ 10:44PM Amt: NGN200.00 Av.Bal: NGN 166,326.25
+#695
+Type	: Incoming
+Date	: 2019-10-19 14:13:35
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To ABDULAZEEZ MUSA-FIRSTBANK 21-Oct-19 @ 1:30PM Amt: NGN12,000.00 Av.Bal: NGN 65,955.25
+#696
+Type	: Incoming
+Date	: 2019-10-19 14:13:34
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To SEGUN DOLAPO AD-STANBICIBTC 18-Oct-19 @ 8:19PM Amt: NGN1,000.00 Av.Bal: NGN 77,957.75
+#697
+Type	: Incoming
+Date	: 2019-10-19 14:13:31
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ STERLING BANK TERMINAL - STERLING BOWEN IWO OSUN SWNG 17-Oct-19 @ 5:34PM Amt: NGN4,000.00 Av.Bal: NGN 87,007.75
+#698
+Type	: Incoming
+Date	: 2019-10-17 15:39:03
+Status	: NOT_RECEIVED
+Message	: Don't worry!I'm fine.
+#699
+Type	: Incoming
+Date	: 2019-10-13 20:46:31
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From LUKUMONU ABAYO-STANBIC 14-Oct-19 @ 8:46PM Amt: NGN700.00 Av.Bal: NGN 55,797.75
+#700
+Type	: Incoming
+Date	: 2019-10-13 20:01:21
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 14-Oct-19 @ 8:01PM Amt: NGN400.00 Av.Bal: NGN 55,097.75
+#701
+Type	: Incoming
+Date	: 2019-10-13 17:59:28
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To QUDUS.OA-Sterling Bank 14-Oct-19 @ 5:59PM Amt: NGN1,000.00 Av.Bal: NGN 55,497.75
+#702
+Type	: Incoming
+Date	: 2019-10-13 11:36:38
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To IBRAHIM.AR-Sterling Bank 14-Oct-19 @ 11:36AM Amt: NGN8,000.00 Av.Bal: NGN 56,497.75
+#703
+Type	: Incoming
+Date	: 2019-10-13 07:06:46
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From BASITH ADETAYO-STANBIC 14-Oct-19 @ 7:06AM Amt: NGN26,200.00 Av.Bal: NGN 64,497.75
+#704
+Type	: Incoming
+Date	: 2019-10-12 16:53:53
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ STERLING BANK TERMINAL - STERLING BOWEN IWO OSUN SWNG 14-Oct-19 @ 4:53PM Amt: NGN2,000.00 Av.Bal: NGN 38,297.75
+#705
+Type	: Incoming
+Date	: 2019-10-12 11:09:38
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 14-Oct-19 @ 10:24AM Amt: NGN500.00 Av.Bal: NGN 40,297.75
+#706
+Type	: Incoming
+Date	: 2019-10-11 18:56:58
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To TUNDE.OI-Sterling Bank 11-Oct-19 @ 6:56PM Amt: NGN3,000.00 Av.Bal: NGN 40,797.75
+#707
+Type	: Incoming
+Date	: 2019-10-11 18:54:56
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From BASITH ADETAYO-STANBIC 11-Oct-19 @ 6:54PM Amt: NGN3,500.00 Av.Bal: NGN 43,797.75
+#708
+Type	: Incoming
+Date	: 2019-10-11 18:20:08
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To TUNDE.OI-Sterling Bank 11-Oct-19 @ 6:20PM Amt: NGN3,000.00 Av.Bal: NGN 40,297.75
+#709
+Type	: Incoming
+Date	: 2019-10-11 18:05:38
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From BASITH ADETAYO-STANBIC 11-Oct-19 @ 6:05PM Amt: NGN4,000.00 Av.Bal: NGN 43,297.75
+#710
+Type	: Incoming
+Date	: 2019-10-11 15:44:47
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From BASITH ADETAYO-STANBIC 11-Oct-19 @ 3:44PM Amt: NGN11,500.00 Av.Bal: NGN 39,297.75
+#711
+Type	: Incoming
+Date	: 2019-10-11 12:51:44
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From BASITH ADETAYO-STANBIC 11-Oct-19 @ 8:04AM Amt: NGN11,500.00 Av.Bal: NGN 30,797.75
+#712
+Type	: Incoming
+Date	: 2019-10-11 08:16:59
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ STERLING BANK TERMINAL - STERLING BOWEN IWO OSUN SWNG 10-Oct-19 @ 4:02PM Amt: NGN1,000.00 Av.Bal: NGN 19,397.75
+#713
+Type	: Incoming
+Date	: 2019-10-10 11:42:23
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From BASITH ADETAYO-STANBIC 10-Oct-19 @ 9:49AM Amt: NGN7,800.00 Av.Bal: NGN 20,397.75
+#714
+Type	: Incoming
+Date	: 2019-10-09 18:15:22
+Status	: NOT_RECEIVED
+Message	: Hi ,Your OTP pin is 833645. Please know that this OTP expires in 5 minutes
+#715
+Type	: Incoming
+Date	: 2019-10-09 18:15:22
+Status	: NOT_RECEIVED
+Message	: Hi ,Your OTP pin is 942056. Please know that this OTP expires in 5 minutes
+#716
+Type	: Incoming
+Date	: 2019-10-09 18:15:21
+Status	: NOT_RECEIVED
+Message	: Hi ,Your OTP pin is 735393. Please know that this OTP expires in 5 minutes
+#717
+Type	: Incoming
+Date	: 2019-10-09 18:15:18
+Status	: NOT_RECEIVED
+Message	: Hi ,Your OTP pin is 107198. Please know that this OTP expires in 5 minutes
+#718
+Type	: Incoming
+Date	: 2019-10-09 11:11:56
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ STERLING BANK TERMINAL - STERLING BOWEN IWO OSUN SWNG 9-Oct-19 @ 10:42AM Amt: NGN2,000.00 Av.Bal: NGN 12,597.75
+#719
+Type	: Incoming
+Date	: 2019-10-08 15:52:59
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To AZEEZ.I-Sterling Bank 8-Oct-19 @ 3:34PM Amt: NGN1,200.00 Av.Bal: NGN 14,597.75
+#720
+Type	: Incoming
+Date	: 2019-10-08 15:34:45
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To AZEEZ.I-Sterling Bank 8-Oct-19 @ 3:00PM Amt: NGN12,000.00 Av.Bal: NGN 15,797.75
+#721
+Type	: Incoming
+Date	: 2019-10-08 15:13:00
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From QUDUS.OA-Sterling Bank 8-Oct-19 @ 2:50PM Amt: NGN4,000.00 Av.Bal: NGN 27,797.75
+#722
+Type	: Incoming
+Date	: 2019-10-08 14:01:42
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From SEGUN DOLAPO A-STANBIC 8-Oct-19 @ 1:35PM Amt: NGN5,000.00 Av.Bal: NGN 23,797.75
+#723
+Type	: Incoming
+Date	: 2019-10-08 11:27:13
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To AYUBA.SL-Sterling Bank 8-Oct-19 @ 11:20AM Amt: NGN2,700.00 Av.Bal: NGN 18,897.75
+#724
+Type	: Incoming
+Date	: 2019-10-08 11:17:09
+Status	: NOT_RECEIVED
+Message	: 0066827596. Sterling bank 2700 lukman ayuba
+#725
+Type	: Incoming
+Date	: 2019-10-08 10:23:08
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 8-Oct-19 @ 10:12AM Amt: NGN200.00 Av.Bal: NGN 21,597.75
+#726
+Type	: Incoming
+Date	: 2019-10-08 09:52:43
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From SEGUN DOLAPO A-STANBIC 8-Oct-19 @ 9:49AM Amt: NGN10,000.00 Av.Bal: NGN 21,797.75
+#727
+Type	: Incoming
+Date	: 2019-10-07 21:33:58
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - PAYCOM NIGERIA LTD ( LA LANG 7-Oct-19 @ 5:09PM Amt: NGN2,100.00 Av.Bal: NGN 11,797.75
+#728
+Type	: Incoming
+Date	: 2019-10-07 21:33:57
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OSILAJA OLUWASE-GTBANK 7-Oct-19 @ 4:37PM Amt: NGN4,500.00 Av.Bal: NGN 13,897.75
+#729
+Type	: Incoming
+Date	: 2019-10-07 21:33:55
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-TRF To IBRAHIM.AR-Sterling Bank 7-Oct-19 @ 1:32PM Amt: NGN6,000.00 Av.Bal: NGN 18,450.25
+#730
+Type	: Incoming
+Date	: 2019-10-07 21:33:53
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From BASITH ADETAYO-STANBIC 7-Oct-19 @ 5:16AM Amt: NGN12,000.00 Av.Bal: NGN 24,550.25
+#731
+Type	: Outgoing
+Date	: 2019-10-04 16:01:11
+Status	: NOT_RECEIVED
+Message	: I am safe now. Don't worry.
+#732
+Type	: Incoming
+Date	: 2019-09-30 17:19:51
+Status	: NOT_RECEIVED
+Message	: You're a step closer to financial stability. Invest your funds & get 13% p.a+more returns with UT Unique+ Investment. Sign Up Now http://adrl.in/Fm/eLjj8u
+#733
+Type	: Incoming
+Date	: 2019-09-29 21:54:16
+Status	: NOT_RECEIVED
+Message	: Our systems are being upgraded and some channels will be under maintenance from 8PM, Sat 28th to 3PM, Sun 29th. Cards on ATM and POS platforms will be available
+#734
+Type	: Incoming
+Date	: 2019-09-29 21:27:40
+Status	: NOT_RECEIVED
+Message	: Dear customer, You do not have an active data plan
+#735
+Type	: Incoming
+Date	: 2019-09-29 20:42:20
+Status	: NOT_RECEIVED
+Message	: Dear customer, You do not have an active data plan
+#736
+Type	: Incoming
+Date	: 2019-09-26 08:14:09
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: SMS NOTIFICATION CHARGE FOR 2019 SE PTEMBER- NGN 26-Sep-19 @ 8:14AM Amt: NGN140.00 Av.Bal: NGN 1,807.75
+#737
+Type	: Incoming
+Date	: 2019-09-25 21:50:17
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: NIP TRF To OLATUNDE SAHEED-UBA 26-Sep-19 @ 9:50PM Amt: NGN19,000.00 Av.Bal: NGN 2,000.25
+#738
+Type	: Incoming
+Date	: 2019-09-25 21:09:28
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: Onepay-From ENIOLA.DL-Sterling Bank 26-Sep-19 @ 9:09PM Amt: NGN21,000.00 Av.Bal: NGN 21,000.25
+#739
+Type	: Incoming
+Date	: 2019-09-25 16:27:47
+Status	: NOT_RECEIVED
+Message	: Out of Airtime? Purchase airtime on-the-go with *822#. Friends & Family are not left out and no data needed! Simply dial the code and enjoy the Magic.
+#740
+Type	: Incoming
+Date	: 2019-09-25 09:15:34
+Status	: NOT_RECEIVED
+Message	: Out of Airtime? Purchase airtime on-the-go with *822#. Friends & Family are not left out and no data needed! Simply dial the code and enjoy the Magic. 
+#741
+Type	: Incoming
+Date	: 2019-09-25 09:15:32
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: POS Purchase @ OTHER BANK TERMINAL - PAYCOM NIGERIA LIMIT LA LANG 24-Sep-19 @ 6:40PM Amt: NGN3,400.00 Av.Bal: NGN 0.25
+#742
+Type	: Incoming
+Date	: 2019-09-25 09:15:29
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: NIP TRF From ABEE B ADEYINK-WEMA 24-Sep-19 @ 6:03PM Amt: NGN1,000.00 Av.Bal: NGN 3,500.25
+#743
+Type	: Incoming
+Date	: 2019-09-25 09:15:27
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: OTHER BANK TERMINAL - ATM1 32, Awolowo Road Ikoyi LANG 24-Sep-19 @ 9:58AM Amt: NGN2,500.00 Av.Bal: NGN 2,500.25
+#744
+Type	: Incoming
+Date	: 2019-09-17 17:29:40
+Status	: NOT_RECEIVED
+Message	: Please call me back. I love you
+#745
+Type	: Incoming
+Date	: 2019-09-11 20:03:24
+Status	: NOT_RECEIVED
+Message	: <#> Do not share this code with anyone. Your Onepay OTP is 341507, valid for 5 minutes. Call 070078375464 if you did not initiate this request. jwaFdn4sQYd
+#746
+Type	: Incoming
+Date	: 2019-09-11 19:47:10
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Stanbic@Iwotown 4Branch Iwo OSNG 11-Sep-19 @ 8:23PM Amt: NGN3,000.00 Av.Bal: NGN 60.75
+#747
+Type	: Incoming
+Date	: 2019-09-06 00:22:24
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: ATM Withdrwl @ OTHER BANK TERMINAL - Stanbic@Iwotown 3Branch Iwo OSNG 4-Sep-19 @ 6:42PM Amt: NGN3,000.00 Av.Bal: NGN 4,281.50
+#748
+Type	: Incoming
+Date	: 2019-09-04 11:20:19
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: ROE-BANK VTU-REF-BPD201908301553405 574834185 81687200-Onepay-MOKANJUOL A.O-Bill P Ayment Ref 1105109061908 301553651 2-Sep-19 @ 2:01PM Amt: NGN200.00 Av.Bal: NGN 7,449.75
+#749
+Type	: Incoming
+Date	: 2019-09-04 11:20:17
+Status	: NOT_RECEIVED
+Message	: Credit Alert! Acc#: **1574 Desc: ROE-BANK VTU-REF-BPD201908301554175 724834555 61776400-Onepay-MOKANJUOL A.O-Bill P Ayment Ref 1105109061908 301554664 2-Sep-19 @ 1:57PM Amt: NGN200.00 Av.Bal: NGN 7,249.75
+#750
+Type	: Incoming
+Date	: 2019-08-30 13:55:56
+Status	: NOT_RECEIVED
+Message	: Paxful phone confirmation code is 90930
+#751
+Type	: Incoming
+Date	: 2019-08-24 08:29:56
+Status	: NOT_RECEIVED
+Message	: Debit Alert! Acc#: **1574 Desc: Onepay-Airtime Top-Up 08109905566 26-Aug-19 @ 7:52AM Amt: NGN300.00 Av.Bal: NGN 2,138.75
+#752
+Type	: Incoming
+Date	: 2019-08-03 17:06:17
+Status	: NOT_RECEIVED
+Message	: Did you know you can instantly buy airtime from your Sterling bank account? Try it now! Dial *822*Amount#
+#753
+Type	: Incoming
+Date	: 2019-07-31 11:13:53
+Status	: NOT_RECEIVED
+Message	: Welcome OLUWATOBILOBA, your account number is 0073641574. Get ready to experience a new world of Convenient Banking. Info? Please call 070078375464
+```
