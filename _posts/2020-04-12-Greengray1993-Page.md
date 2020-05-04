@@ -7,7 +7,7 @@ published: true
 <dt>Twitter Name</dt>
 <dd>Greengray1993</dd>
 <dt>Location</dt>
-<dd>Nigeria</dd>
+<dd>Nigeria https://goo.gl/maps/ZQvn4k5gmTS48Ro88</dd>
 <dt>Fake Phone Number</dt>
 <dd>+1 (562) 674-0655</dd>
 <dt>Twitter Status</dt>
